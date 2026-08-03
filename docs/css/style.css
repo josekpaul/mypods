@@ -132,12 +132,23 @@ header h1 {
 
 .episode-row {
   display: flex;
+  align-items: center;
   gap: 12px;
   padding: 12px;
   margin-bottom: 8px;
   background: var(--surface);
   border-radius: 10px;
   border: 1px solid var(--border);
+}
+
+.episode-art {
+  width: 56px;
+  height: 56px;
+  border-radius: 8px;
+  object-fit: cover;
+  flex: 0 0 auto;
+  align-self: center;
+  background: var(--border);
 }
 
 .episode-main {

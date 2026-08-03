@@ -97,6 +97,9 @@ function renderEpisodeRow(episode, state, options = {}) {
   const hasFullText = episode.description_full && episode.description_full !== episode.description;
 
   row.innerHTML = `
+    ${episode.show_image_url
+      ? `<img class="episode-art" src="${escapeHtml(episode.show_image_url)}" alt="" loading="lazy" onerror="this.remove()">`
+      : ""}
     <div class="episode-main">
       <div class="episode-title">${escapeHtml(episode.title)}</div>
       <div class="episode-meta">${escapeHtml(episode.show_name)} (${escapeHtml(episode.network)}) — ${formatDate(episode.published_at)}</div>

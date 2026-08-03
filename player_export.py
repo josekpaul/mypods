@@ -29,6 +29,7 @@ def to_json_dict(episode):
         "link": episode["link"],
         "audio_url": episode.get("audio_url"),
         "audio_type": episode.get("audio_type"),
+        "show_image_url": episode.get("show_image_url"),
         "description": _clean_snippet(episode["description"]),
         "description_full": _clean_text(episode["description"]),
     }

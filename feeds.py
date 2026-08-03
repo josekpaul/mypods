@@ -39,6 +39,13 @@ def _entry_published(entry):
     return datetime(*struct[:6], tzinfo=timezone.utc)
 
 
+def _feed_image(feed):
+    image = feed.feed.get("image")
+    if image:
+        return image.get("href")
+    return None
+
+
 def _entry_enclosure(entry):
     enclosures = getattr(entry, "enclosures", None)
     if enclosures:
@@ -55,6 +62,7 @@ def _entry_enclosure(entry):
 
 
 def parse_episodes(feed, show):
+    show_image_url = _feed_image(feed)
     episodes = []
     for entry in feed.entries:
         published_dt = _entry_published(entry)
@@ -72,6 +80,7 @@ def parse_episodes(feed, show):
             "category": show["category"],
             "audio_url": enclosure["url"] if enclosure else None,
             "audio_type": enclosure["type"] if enclosure else None,
+            "show_image_url": show_image_url,
         })
     return episodes
 

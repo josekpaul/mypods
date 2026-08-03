@@ -87,6 +87,7 @@ export async function addToPlaylist(episode, onProgress) {
     link: episode.link,
     audio_url: episode.audio_url,
     audio_type: episode.audio_type,
+    show_image_url: episode.show_image_url,
     description: episode.description,
     description_full: episode.description_full,
     download_state: "not_downloaded",
