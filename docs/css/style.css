@@ -153,7 +153,21 @@ header h1 {
 .episode-meta {
   font-size: 0.75rem;
   color: var(--text-dim);
+  margin-bottom: 2px;
+}
+
+.episode-reviews {
   margin-bottom: 6px;
+}
+
+.episode-reviews a {
+  font-size: 0.7rem;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.episode-reviews a:hover {
+  text-decoration: underline;
 }
 
 .episode-desc {

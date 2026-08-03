@@ -13,6 +13,11 @@ function formatDate(iso) {
   return d.toLocaleDateString(undefined, { month: "short", day: "numeric" });
 }
 
+function reviewSearchUrl(episode) {
+  const query = `${episode.show_name} ${episode.title} review`;
+  return `https://www.google.com/search?q=${encodeURIComponent(query)}`;
+}
+
 function statusBadge(state) {
   if (!state) return { label: "Add", className: "status-none" };
   switch (state.download_state) {
@@ -91,6 +96,7 @@ function renderEpisodeRow(episode, state, options = {}) {
     <div class="episode-main">
       <div class="episode-title">${escapeHtml(episode.title)}</div>
       <div class="episode-meta">${escapeHtml(episode.show_name)} (${escapeHtml(episode.network)}) — ${formatDate(episode.published_at)}</div>
+      <div class="episode-reviews"><a href="${reviewSearchUrl(episode)}" target="_blank" rel="noopener noreferrer">Search for reviews</a></div>
       <div class="episode-desc">${escapeHtml(episode.description)}</div>
       ${hasFullText ? '<button class="desc-toggle">Read more</button>' : ""}
     </div>
