@@ -42,7 +42,6 @@ Edit `config.json`:
 
 These were found during research but not independently verified this session — confirm the feed still works before adding:
 
-- **Radiolab** (WNYC) — candidate URL: `https://feeds.wnyc.org/radiolab`
 - **Search Engine** (PJ Vogt) — candidate URL: `https://rss.amperwave.net/v2/feed/audacynetwork/search-engine`
 
 ## Scheduling
