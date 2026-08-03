@@ -173,14 +173,24 @@ async function handleAction(episode, state, button, onChange) {
   }
 }
 
+function playlistSortValue(state) {
+  return state.playlist_order !== undefined
+    ? state.playlist_order
+    : new Date(state.added_to_playlist_at).getTime();
+}
+
+async function getSortedPlaylist() {
+  const states = await storage.getAllEpisodeStates();
+  const inPlaylist = states.filter((s) => s.download_state !== "not_downloaded" || s.played);
+  inPlaylist.sort((a, b) => playlistSortValue(a) - playlistSortValue(b));
+  return inPlaylist;
+}
+
 async function renderPlaylist() {
   const container = document.getElementById("playlist-list");
   container.innerHTML = "";
 
-  const states = await storage.getAllEpisodeStates();
-  const inPlaylist = states.filter((s) => s.download_state !== "not_downloaded" || s.played);
-
-  inPlaylist.sort((a, b) => new Date(b.added_to_playlist_at) - new Date(a.added_to_playlist_at));
+  const inPlaylist = await getSortedPlaylist();
 
   if (inPlaylist.length === 0) {
     const empty = document.createElement("p");
@@ -190,7 +200,10 @@ async function renderPlaylist() {
     return;
   }
 
-  for (const state of inPlaylist) {
+  const orderedIds = inPlaylist.map((s) => s.id);
+
+  for (let i = 0; i < inPlaylist.length; i++) {
+    const state = inPlaylist[i];
     // The episodes store already holds a full snapshot of episode fields,
     // so the playlist renders straight from IndexedDB — no dependency on
     // episode.json still listing it (episodes age out of the lookback window).
@@ -198,14 +211,62 @@ async function renderPlaylist() {
       onChange: renderPlaylist,
       removable: state.download_state === "downloaded",
     });
+
+    const reorderControls = document.createElement("div");
+    reorderControls.className = "reorder-controls";
+
+    const upBtn = document.createElement("button");
+    upBtn.className = "reorder-btn";
+    upBtn.textContent = "▲";
+    upBtn.setAttribute("aria-label", "Move up");
+    upBtn.disabled = i === 0;
+    upBtn.addEventListener("click", async () => {
+      [orderedIds[i - 1], orderedIds[i]] = [orderedIds[i], orderedIds[i - 1]];
+      await storage.reorderPlaylist(orderedIds);
+      await renderPlaylist();
+    });
+
+    const downBtn = document.createElement("button");
+    downBtn.className = "reorder-btn";
+    downBtn.textContent = "▼";
+    downBtn.setAttribute("aria-label", "Move down");
+    downBtn.disabled = i === inPlaylist.length - 1;
+    downBtn.addEventListener("click", async () => {
+      [orderedIds[i], orderedIds[i + 1]] = [orderedIds[i + 1], orderedIds[i]];
+      await storage.reorderPlaylist(orderedIds);
+      await renderPlaylist();
+    });
+
+    reorderControls.appendChild(upBtn);
+    reorderControls.appendChild(downBtn);
+    row.prepend(reorderControls);
+
     container.appendChild(row);
+  }
+}
+
+async function playNextInPlaylist(finishedId) {
+  if (!settings.isContinuousPlayEnabled()) return;
+
+  const inPlaylist = await getSortedPlaylist();
+  const finishedIndex = inPlaylist.findIndex((s) => s.id === finishedId);
+  const searchStart = finishedIndex === -1 ? 0 : finishedIndex + 1;
+
+  for (let i = searchStart; i < inPlaylist.length; i++) {
+    const candidate = inPlaylist[i];
+    if (candidate.download_state === "downloaded" && !candidate.played) {
+      await player.playEpisode(candidate);
+      updateNowPlaying(candidate);
+      await renderActiveView();
+      return;
+    }
   }
 }
 
 function setActiveView(view) {
   const views = {
     browse: { list: document.getElementById("episode-list"), tab: document.getElementById("tab-browse") },
-    playlist: { list: document.getElementById("playlist-list"), tab: document.getElementById("tab-playlist") },
+    playlist: { list: document.getElementById("playlist-view"), tab: document.getElementById("tab-playlist") },
     settings: { list: document.getElementById("settings-view"), tab: document.getElementById("tab-settings") },
   };
   const browseFilters = document.getElementById("browse-filters");
@@ -292,6 +353,12 @@ export function setupFilters() {
   document.getElementById("refresh-btn").addEventListener("click", async () => {
     window.dispatchEvent(new CustomEvent("refresh-requested"));
   });
+
+  const continuousPlayToggle = document.getElementById("continuous-play-toggle");
+  continuousPlayToggle.checked = settings.isContinuousPlayEnabled();
+  continuousPlayToggle.addEventListener("change", (e) => {
+    settings.setContinuousPlayEnabled(e.target.checked);
+  });
 }
 
 export async function setEpisodes(episodes, generatedAt) {
@@ -305,7 +372,7 @@ export async function refreshList() {
 }
 
 async function renderActiveView() {
-  const playlistVisible = !document.getElementById("playlist-list").classList.contains("hidden");
+  const playlistVisible = !document.getElementById("playlist-view").classList.contains("hidden");
   if (playlistVisible) {
     await renderPlaylist();
   } else {
@@ -313,4 +380,4 @@ async function renderActiveView() {
   }
 }
 
-player.initPlayer(document.getElementById("audio-el"), renderActiveView);
+player.initPlayer(document.getElementById("audio-el"), renderActiveView, playNextInPlaylist);

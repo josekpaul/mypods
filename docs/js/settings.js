@@ -52,4 +52,15 @@ export function setAnalyticsEnabled(enabled) {
   writeAll(settings);
 }
 
+export function isContinuousPlayEnabled() {
+  const settings = readAll();
+  return !!settings.continuousPlay;
+}
+
+export function setContinuousPlayEnabled(enabled) {
+  const settings = readAll();
+  settings.continuousPlay = !!enabled;
+  writeAll(settings);
+}
+
 export { DEFAULT_FEED_URL };

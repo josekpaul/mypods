@@ -96,9 +96,24 @@ export async function addToPlaylist(episode, onProgress) {
     played: false,
     added_to_playlist_at: new Date().toISOString(),
     downloaded_at: null,
+    playlist_order: Date.now(),
   };
+  if (record.playlist_order === undefined) {
+    record.playlist_order = Date.now();
+  }
   await putEpisodeState(record);
   return downloadEpisode(episode.id, onProgress);
+}
+
+export async function reorderPlaylist(orderedIds) {
+  const states = await getAllEpisodeStates();
+  const byId = new Map(states.map((s) => [s.id, s]));
+  for (let i = 0; i < orderedIds.length; i++) {
+    const record = byId.get(orderedIds[i]);
+    if (!record) continue;
+    record.playlist_order = i;
+    await putEpisodeState(record);
+  }
 }
 
 export async function downloadEpisode(id, onProgress) {

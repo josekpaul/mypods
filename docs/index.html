@@ -24,8 +24,16 @@
   </div>
 </header>
 
+<main id="playlist-view" class="hidden">
+  <div class="filters" id="playlist-filters">
+    <label class="toggle-chip continuous-play-field">
+      <input type="checkbox" id="continuous-play-toggle">
+      <span>Play continuously</span>
+    </label>
+  </div>
+  <div id="playlist-list"></div>
+</main>
 <main id="episode-list"></main>
-<main id="playlist-list" class="hidden"></main>
 <main id="settings-view" class="hidden">
   <section class="settings-section">
     <h2>Episode list source</h2>

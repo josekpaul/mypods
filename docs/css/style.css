@@ -202,6 +202,40 @@ header h1 {
   gap: 6px;
 }
 
+.reorder-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+}
+
+.reorder-btn {
+  background: var(--surface);
+  color: var(--text-dim);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  width: 28px;
+  height: 28px;
+  font-size: 0.7rem;
+  line-height: 1;
+}
+
+.reorder-btn:disabled {
+  opacity: 0.3;
+}
+
+.continuous-play-field {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px;
+}
+
+.continuous-play-field input {
+  margin: 0;
+}
+
 .action-btn {
   border: none;
   border-radius: 8px;

@@ -9,10 +9,12 @@ let audioEl = null;
 let currentEpisode = null;
 let lastResumeWriteAt = 0;
 let onStateChange = () => {};
+let onEpisodeEnded = () => {};
 
-export function initPlayer(audioElement, stateChangeCallback) {
+export function initPlayer(audioElement, stateChangeCallback, episodeEndedCallback) {
   audioEl = audioElement;
   onStateChange = stateChangeCallback || (() => {});
+  onEpisodeEnded = episodeEndedCallback || (() => {});
 
   audioEl.addEventListener("loadedmetadata", async () => {
     if (!currentEpisode) return;
@@ -40,6 +42,7 @@ export function initPlayer(audioElement, stateChangeCallback) {
     await storage.markPlayedAndDelete(finishedId);
     currentEpisode = null;
     onStateChange();
+    await onEpisodeEnded(finishedId);
   });
 
   audioEl.addEventListener("play", () => {
