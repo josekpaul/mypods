@@ -1,0 +1,29 @@
+{
+  "lookback_days": 7,
+  "shows": [
+    {"name": "Planet Money", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510289/podcast.xml"},
+    {"name": "TED Radio Hour", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510298/podcast.xml"},
+    {"name": "Throughline", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510333/podcast.xml"},
+    {"name": "Pop Culture Happy Hour", "network": "NPR", "category": "Entertainment", "feed_url": "https://feeds.npr.org/510282/podcast.xml"},
+    {"name": "It's Been a Minute", "network": "NPR", "category": "Entertainment", "feed_url": "https://feeds.npr.org/510317/podcast.xml"},
+    {"name": "Judge John Hodgman", "network": "Maximum Fun", "category": "Entertainment", "feed_url": "https://feeds.simplecast.com/q8x9cVws"},
+    {"name": "Jordan, Jesse, Go!", "network": "Maximum Fun", "category": "Entertainment", "feed_url": "https://feeds.simplecast.com/NDAi3mtz"},
+    {"name": "Popcast", "network": "NY Times", "category": "Entertainment", "feed_url": "https://feeds.simplecast.com/W1rB_kgL"},
+    {"name": "99% Invisible", "network": "Independent", "category": "Art", "feed_url": "https://feeds.simplecast.com/BqbsxVfO"},
+    {"name": "Song Exploder", "network": "Radiotopia/PRX", "category": "Art", "feed_url": "https://feed.songexploder.net/songexploder"},
+    {"name": "Bullseye with Jesse Thorn", "network": "Maximum Fun (NPR-hosted)", "category": "Art", "feed_url": "https://feeds.npr.org/510309/podcast.xml"},
+    {"name": "Fresh Air", "network": "NPR", "category": "Art", "feed_url": "https://feeds.npr.org/381444908/podcast.xml"},
+    {"name": "NPR Music", "network": "NPR", "category": "Art", "feed_url": "https://feeds.npr.org/510019/podcast.xml"},
+    {"name": "The NPR Politics Podcast", "network": "NPR", "category": "Politics", "feed_url": "https://feeds.npr.org/510310/podcast.xml"},
+    {"name": "The Daily", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/Sl5CSM3S"},
+    {"name": "The Ezra Klein Show", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/82FI35Px"},
+    {"name": "Hard Fork", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/l2i9YnTd"},
+    {"name": "Code Switch", "network": "NPR", "category": "Politics", "feed_url": "https://feeds.npr.org/510312/podcast.xml"}
+  ],
+  "keywords": {
+    "Science": ["research", "study", "climate", "space", "brain", "health", "economy", "economic", "data", "technology", "physics", "biology", "discovery", "experiment", "vaccine", "artificial intelligence"],
+    "Entertainment": ["movie", "film", "TV", "television", "celebrity", "review", "streaming", "music", "comedy", "actor", "actress", "show", "series", "award", "box office"],
+    "Art": ["design", "artist", "music", "culture", "architecture", "exhibit", "museum", "creative", "song", "album", "book", "author", "craft", "history", "interview"],
+    "Politics": ["election", "congress", "senate", "president", "policy", "vote", "campaign", "law", "supreme court", "government", "White House", "legislation", "democracy", "administration"]
+  }
+}

@@ -1,0 +1,32 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Podcast Player</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<meta name="theme-color" content="#635bff">
+<link rel="stylesheet" href="css/style.css">
+
+<header>
+  <h1>Podcast Player</h1>
+  <div id="generated-at"></div>
+  <div class="filters">
+    <select id="filter-category">
+      <option value="all">All categories</option>
+    </select>
+    <label><input type="checkbox" id="filter-downloaded"> Downloaded only</label>
+    <label><input type="checkbox" id="filter-unplayed"> Unplayed only</label>
+    <button id="refresh-btn">Refresh</button>
+  </div>
+</header>
+
+<main id="episode-list"></main>
+
+<div id="player-bar" class="hidden">
+  <div>
+    <div class="now-playing-title" id="now-playing-title"></div>
+    <div class="now-playing-show" id="now-playing-show"></div>
+  </div>
+  <audio id="audio-el" controls></audio>
+</div>
+
+<script type="module" src="js/app.js"></script>
