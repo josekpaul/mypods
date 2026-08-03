@@ -26,9 +26,9 @@ Options:
 - `--html` — also write `output/podcast_report_<date>.html`.
 - `--config PATH` — use a different config file (default `config.json`).
 - `--output-dir PATH` — write reports somewhere other than `output/` (default `output`).
-- `--player-data-dir PATH` — write `episodes.json` somewhere other than `player/data/` (default `player/data`).
+- `--player-data-dir PATH` — write `episodes.json` somewhere other than `docs/data/` (default `docs/data`).
 
-Re-running on the same day overwrites that day's report rather than creating duplicates. Every run also writes `player/data/episodes.json`, the machine-readable feed the player PWA (see below) reads — this file is tracked in git (unlike `output/`, which is gitignored) since it needs to be pushed for the phone app to see new episodes.
+Re-running on the same day overwrites that day's report rather than creating duplicates. Every run also writes `docs/data/episodes.json`, the machine-readable feed the player PWA (see below) reads — this file is tracked in git (unlike `output/`, which is gitignored) since it needs to be pushed for the phone app to see new episodes.
 
 ## Configuring shows and keywords
 
@@ -57,14 +57,14 @@ If a feed is unreachable or malformed, that show is skipped and logged — the r
 
 ## Player PWA
 
-`/player` is a small installable web app (no build step, no framework — plain HTML/CSS/JS) that reads `player/data/episodes.json` and lets you download episodes to your phone, play them, and track progress. It's built for Android + Chrome specifically (relies on IndexedDB, the Cache API, and the Media Session API for lock-screen controls).
+`/docs` is a small installable web app (no build step, no framework — plain HTML/CSS/JS) that reads `docs/data/episodes.json` and lets you download episodes to your phone, play them, and track progress. It's built for Android + Chrome specifically (relies on IndexedDB, the Cache API, and the Media Session API for lock-screen controls). The folder is named `docs/` rather than `player/` because GitHub Pages only allows serving from the repo root or a folder literally named `docs`.
 
 ### Publishing workflow
 
-1. Run `python aggregate.py` locally as usual — this regenerates `player/data/episodes.json` alongside the Markdown report.
+1. Run `python aggregate.py` locally as usual — this regenerates `docs/data/episodes.json` alongside the Markdown report.
 2. Review the report, then commit and push, e.g.:
    ```bash
-   git add player/data/episodes.json
+   git add docs/data/episodes.json
    git commit -m "Update episode list"
    git push
    ```
@@ -74,7 +74,7 @@ If a feed is unreachable or malformed, that show is skipped and logged — the r
 ### One-time GitHub Pages setup
 
 1. Push this repo to GitHub if you haven't already.
-2. In the repo's Settings → Pages, set **Source** to "Deploy from a branch", branch `main`, folder `/player`.
+2. In the repo's Settings → Pages, set **Source** to "Deploy from a branch", branch `main`, folder `/docs`.
 3. Wait a minute for the first deploy, then visit the shown URL (`https://<username>.github.io/PodcastScanner/`) on your Android phone in Chrome.
 4. Chrome should offer to "Add to Home Screen" / install the app — do that so it behaves like a real app (own icon, no browser chrome).
 

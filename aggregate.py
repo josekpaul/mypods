@@ -21,7 +21,7 @@ def parse_args():
     parser.add_argument("--output-dir", default="output", help="Directory to write the report to (default: output)")
     parser.add_argument("--html", action="store_true", help="Also write an HTML copy of the report")
     parser.add_argument("--days", type=int, default=None, help="Override the lookback window in days (default: config's lookback_days)")
-    parser.add_argument("--player-data-dir", default="player/data", help="Directory to write episodes.json for the player PWA (default: player/data)")
+    parser.add_argument("--player-data-dir", default="docs/data", help="Directory to write episodes.json for the player PWA (default: docs/data)")
     return parser.parse_args()
 
 
