@@ -1,6 +1,7 @@
 import { fetchEpisodes } from "./data.js";
 import { setEpisodes, setupFilters } from "./ui.js";
 import { requestPersistentStorage } from "./storage.js";
+import { initAnalytics } from "./analytics.js";
 
 async function loadEpisodes() {
   try {
@@ -18,6 +19,7 @@ async function loadEpisodes() {
 }
 
 async function init() {
+  initAnalytics();
   setupFilters();
   window.addEventListener("refresh-requested", loadEpisodes);
 

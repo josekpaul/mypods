@@ -1,6 +1,7 @@
 // <audio> element control, Media Session API, resume tracking, auto-delete on finish.
 
 import * as storage from "./storage.js";
+import { trackEvent } from "./analytics.js";
 
 const RESUME_WRITE_INTERVAL_SECONDS = 7;
 
@@ -35,6 +36,7 @@ export function initPlayer(audioElement, stateChangeCallback) {
   audioEl.addEventListener("ended", async () => {
     if (!currentEpisode) return;
     const finishedId = currentEpisode.id;
+    trackEvent("episode_completed", { show_name: currentEpisode.show_name, category: currentEpisode.category });
     await storage.markPlayedAndDelete(finishedId);
     currentEpisode = null;
     onStateChange();

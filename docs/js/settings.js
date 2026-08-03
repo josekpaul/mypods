@@ -41,4 +41,15 @@ export function isDefaultFeedUrl(url) {
   return url === DEFAULT_FEED_URL;
 }
 
+export function isAnalyticsEnabled() {
+  const settings = readAll();
+  return settings.analyticsEnabled !== false;
+}
+
+export function setAnalyticsEnabled(enabled) {
+  const settings = readAll();
+  settings.analyticsEnabled = !!enabled;
+  writeAll(settings);
+}
+
 export { DEFAULT_FEED_URL };

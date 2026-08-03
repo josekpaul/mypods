@@ -4,6 +4,7 @@ import { CATEGORY_ORDER, groupByCategory } from "./data.js";
 import * as storage from "./storage.js";
 import * as player from "./player.js";
 import * as settings from "./settings.js";
+import { trackEvent, setAnalyticsRuntimeEnabled } from "./analytics.js";
 
 let allEpisodes = [];
 let filters = { category: "all", downloadedOnly: false, unplayedOnly: false };
@@ -149,9 +150,16 @@ async function handleAction(episode, state, button, onChange) {
     button.disabled = true;
     button.textContent = "Downloading…";
     button.className = "action-btn status-downloading";
+    trackEvent("add_to_playlist", { show_name: episode.show_name, category: episode.category });
     await storage.addToPlaylist(episode, (pct) => {
       button.textContent = pct > 0 && pct < 100 ? `Downloading… ${pct}%` : "Downloading…";
     });
+    const finalState = await storage.getEpisodeState(episode.id);
+    if (finalState?.download_state === "downloaded") {
+      trackEvent("download_success", { show_name: episode.show_name, category: episode.category });
+    } else if (finalState?.download_state === "failed") {
+      trackEvent("download_failed", { show_name: episode.show_name, category: episode.category, network: episode.network });
+    }
     await refresh();
     return;
   }
@@ -218,6 +226,7 @@ function renderSettings() {
   const currentUrl = settings.getFeedUrl();
   input.value = settings.isDefaultFeedUrl(currentUrl) ? "" : currentUrl;
   document.getElementById("settings-status").textContent = "";
+  document.getElementById("settings-analytics-toggle").checked = settings.isAnalyticsEnabled();
 }
 
 function updateNowPlaying(episode) {
@@ -244,6 +253,11 @@ export function setupFilters() {
     document.getElementById("settings-feed-url").value = "";
     document.getElementById("settings-status").textContent = "Reset to default. Reloading list…";
     window.dispatchEvent(new CustomEvent("refresh-requested"));
+  });
+
+  document.getElementById("settings-analytics-toggle").addEventListener("change", (e) => {
+    settings.setAnalyticsEnabled(e.target.checked);
+    setAnalyticsRuntimeEnabled(e.target.checked);
   });
 
   const categorySelect = document.getElementById("filter-category");
