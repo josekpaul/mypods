@@ -3,6 +3,7 @@
 import { CATEGORY_ORDER, groupByCategory } from "./data.js";
 import * as storage from "./storage.js";
 import * as player from "./player.js";
+import * as settings from "./settings.js";
 
 let allEpisodes = [];
 let filters = { category: "all", downloadedOnly: false, unplayedOnly: false };
@@ -84,19 +85,33 @@ function renderEpisodeRow(episode, state, options = {}) {
   row.dataset.id = episode.id;
 
   const badge = statusBadge(state);
+  const hasFullText = episode.description_full && episode.description_full !== episode.description;
 
   row.innerHTML = `
     <div class="episode-main">
       <div class="episode-title">${escapeHtml(episode.title)}</div>
       <div class="episode-meta">${escapeHtml(episode.show_name)} (${escapeHtml(episode.network)}) — ${formatDate(episode.published_at)}</div>
       <div class="episode-desc">${escapeHtml(episode.description)}</div>
+      ${hasFullText ? '<button class="desc-toggle">Read more</button>' : ""}
     </div>
     <div class="episode-action">
       <button class="action-btn ${badge.className}" ${episode.audio_url ? "" : "disabled"}>${badge.label}</button>
     </div>
   `;
 
-  const button = row.querySelector("button");
+  if (hasFullText) {
+    const descEl = row.querySelector(".episode-desc");
+    const toggle = row.querySelector(".desc-toggle");
+    let expanded = false;
+    toggle.addEventListener("click", () => {
+      expanded = !expanded;
+      descEl.textContent = expanded ? episode.description_full : episode.description;
+      descEl.classList.toggle("expanded", expanded);
+      toggle.textContent = expanded ? "Show less" : "Read more";
+    });
+  }
+
+  const button = row.querySelector(".action-btn");
   button.addEventListener("click", () => handleAction(episode, state, options.onChange));
 
   if (options.removable) {
@@ -166,26 +181,29 @@ async function renderPlaylist() {
 }
 
 function setActiveView(view) {
-  const browseList = document.getElementById("episode-list");
-  const playlistList = document.getElementById("playlist-list");
+  const views = {
+    browse: { list: document.getElementById("episode-list"), tab: document.getElementById("tab-browse") },
+    playlist: { list: document.getElementById("playlist-list"), tab: document.getElementById("tab-playlist") },
+    settings: { list: document.getElementById("settings-view"), tab: document.getElementById("tab-settings") },
+  };
   const browseFilters = document.getElementById("browse-filters");
-  const tabBrowse = document.getElementById("tab-browse");
-  const tabPlaylist = document.getElementById("tab-playlist");
 
-  if (view === "playlist") {
-    browseList.classList.add("hidden");
-    browseFilters.classList.add("hidden");
-    playlistList.classList.remove("hidden");
-    tabBrowse.classList.remove("active");
-    tabPlaylist.classList.add("active");
-    renderPlaylist();
-  } else {
-    browseList.classList.remove("hidden");
-    browseFilters.classList.remove("hidden");
-    playlistList.classList.add("hidden");
-    tabBrowse.classList.add("active");
-    tabPlaylist.classList.remove("active");
+  for (const [name, { list, tab }] of Object.entries(views)) {
+    const isActive = name === view;
+    list.classList.toggle("hidden", !isActive);
+    tab.classList.toggle("active", isActive);
   }
+  browseFilters.classList.toggle("hidden", view !== "browse");
+
+  if (view === "playlist") renderPlaylist();
+  if (view === "settings") renderSettings();
+}
+
+function renderSettings() {
+  const input = document.getElementById("settings-feed-url");
+  const currentUrl = settings.getFeedUrl();
+  input.value = settings.isDefaultFeedUrl(currentUrl) ? "" : currentUrl;
+  document.getElementById("settings-status").textContent = "";
 }
 
 function updateNowPlaying(episode) {
@@ -198,6 +216,21 @@ function updateNowPlaying(episode) {
 export function setupFilters() {
   document.getElementById("tab-browse").addEventListener("click", () => setActiveView("browse"));
   document.getElementById("tab-playlist").addEventListener("click", () => setActiveView("playlist"));
+  document.getElementById("tab-settings").addEventListener("click", () => setActiveView("settings"));
+
+  document.getElementById("settings-save-btn").addEventListener("click", () => {
+    const input = document.getElementById("settings-feed-url");
+    settings.setFeedUrl(input.value);
+    document.getElementById("settings-status").textContent = "Saved. Reloading list…";
+    window.dispatchEvent(new CustomEvent("refresh-requested"));
+  });
+
+  document.getElementById("settings-reset-btn").addEventListener("click", () => {
+    settings.resetFeedUrl();
+    document.getElementById("settings-feed-url").value = "";
+    document.getElementById("settings-status").textContent = "Reset to default. Reloading list…";
+    window.dispatchEvent(new CustomEvent("refresh-requested"));
+  });
 
   const categorySelect = document.getElementById("filter-category");
   for (const category of CATEGORY_ORDER) {

@@ -12,6 +12,7 @@ const APP_SHELL_FILES = [
   "./js/storage.js",
   "./js/player.js",
   "./js/ui.js",
+  "./js/settings.js",
   "./icons/icon-192.png",
   "./icons/icon-512.png",
 ];

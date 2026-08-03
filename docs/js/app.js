@@ -6,10 +6,14 @@ async function loadEpisodes() {
   try {
     const { episodes, generatedAt } = await fetchEpisodes();
     await setEpisodes(episodes, generatedAt);
+    const statusEl = document.getElementById("settings-status");
+    if (statusEl) statusEl.textContent = `Loaded ${episodes.length} episode(s).`;
   } catch (err) {
     console.error("Failed to load episodes:", err);
     document.getElementById("episode-list").innerHTML =
       '<p class="error-note">Could not load episode list. Check your connection and try refreshing.</p>';
+    const statusEl = document.getElementById("settings-status");
+    if (statusEl) statusEl.textContent = `Failed to load: ${err.message}`;
   }
 }
 

@@ -1,9 +1,17 @@
 // Fetching and parsing episodes.json.
 
+import { getFeedUrl } from "./settings.js";
+
 export const CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics"];
 
+function withCacheBust(url) {
+  const separator = url.includes("?") ? "&" : "?";
+  return `${url}${separator}t=${Date.now()}`;
+}
+
 export async function fetchEpisodes() {
-  const response = await fetch(`./data/episodes.json?t=${Date.now()}`, {
+  const feedUrl = getFeedUrl();
+  const response = await fetch(withCacheBust(feedUrl), {
     cache: "no-store",
   });
   if (!response.ok) {

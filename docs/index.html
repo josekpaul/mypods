@@ -12,6 +12,7 @@
   <nav class="view-tabs">
     <button class="view-tab active" id="tab-browse" data-view="browse">Browse</button>
     <button class="view-tab" id="tab-playlist" data-view="playlist">Playlist</button>
+    <button class="view-tab" id="tab-settings" data-view="settings">Settings</button>
   </nav>
   <div class="filters" id="browse-filters">
     <select id="filter-category">
@@ -25,6 +26,24 @@
 
 <main id="episode-list"></main>
 <main id="playlist-list" class="hidden"></main>
+<main id="settings-view" class="hidden">
+  <section class="settings-section">
+    <h2>Episode list source</h2>
+    <p class="settings-note">
+      Point the app at any episodes.json URL to use your own curated list instead of the
+      default feed. The URL must be reachable from your browser (same-origin or CORS-enabled).
+    </p>
+    <label class="settings-field">
+      <span>Feed URL</span>
+      <input type="url" id="settings-feed-url" placeholder="./data/episodes.json" inputmode="url">
+    </label>
+    <div class="settings-actions">
+      <button id="settings-save-btn">Save &amp; Refresh</button>
+      <button id="settings-reset-btn" class="secondary-btn">Reset to default</button>
+    </div>
+    <p class="settings-status" id="settings-status"></p>
+  </section>
+</main>
 
 <div id="player-bar" class="hidden">
   <div>

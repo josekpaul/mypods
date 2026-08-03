@@ -4,7 +4,7 @@ import hashlib
 import json
 import os
 
-from report import _clean_snippet
+from report import _clean_snippet, _clean_text
 
 ID_LENGTH = 16
 
@@ -30,6 +30,7 @@ def to_json_dict(episode):
         "audio_url": episode.get("audio_url"),
         "audio_type": episode.get("audio_type"),
         "description": _clean_snippet(episode["description"]),
+        "description_full": _clean_text(episode["description"]),
     }
 
 

@@ -10,9 +10,13 @@ CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics"]
 SNIPPET_LENGTH = 200
 
 
-def _clean_snippet(description):
+def _clean_text(description):
     text = re.sub(r"<[^>]+>", "", description or "")
-    text = html.unescape(text).strip()
+    return html.unescape(text).strip()
+
+
+def _clean_snippet(description):
+    text = _clean_text(description)
     if len(text) > SNIPPET_LENGTH:
         text = text[:SNIPPET_LENGTH].rsplit(" ", 1)[0] + "..."
     return text

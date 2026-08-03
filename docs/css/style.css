@@ -151,6 +151,22 @@ header h1 {
   -webkit-box-orient: vertical;
 }
 
+.episode-desc.expanded {
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+}
+
+.desc-toggle {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 4px 0 0;
+  cursor: pointer;
+}
+
 .episode-action {
   display: flex;
   flex-direction: column;
@@ -235,4 +251,68 @@ header h1 {
 
 #audio-el {
   width: 100%;
+}
+
+.settings-section {
+  padding: 16px;
+  max-width: 480px;
+}
+
+.settings-section h2 {
+  font-size: 1rem;
+  color: var(--accent);
+  margin: 0 0 8px;
+}
+
+.settings-note {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  margin: 0 0 16px;
+}
+
+.settings-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 0.85rem;
+  margin-bottom: 16px;
+}
+
+.settings-field input {
+  background: var(--surface);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 8px 10px;
+  font-size: 0.85rem;
+}
+
+.settings-actions {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 12px;
+}
+
+#settings-save-btn {
+  background: var(--accent);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+}
+
+.secondary-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 6px;
+  padding: 8px 16px;
+  font-size: 0.85rem;
+}
+
+.settings-status {
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  min-height: 1.2em;
 }
