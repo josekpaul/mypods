@@ -245,13 +245,19 @@ export function setupFilters() {
     renderList();
   });
 
-  document.getElementById("filter-downloaded").addEventListener("change", (e) => {
-    filters.downloadedOnly = e.target.checked;
+  const downloadedChip = document.getElementById("filter-downloaded");
+  downloadedChip.addEventListener("click", () => {
+    filters.downloadedOnly = !filters.downloadedOnly;
+    downloadedChip.classList.toggle("active", filters.downloadedOnly);
+    downloadedChip.setAttribute("aria-pressed", String(filters.downloadedOnly));
     renderList();
   });
 
-  document.getElementById("filter-unplayed").addEventListener("change", (e) => {
-    filters.unplayedOnly = e.target.checked;
+  const unplayedChip = document.getElementById("filter-unplayed");
+  unplayedChip.addEventListener("click", () => {
+    filters.unplayedOnly = !filters.unplayedOnly;
+    unplayedChip.classList.toggle("active", filters.unplayedOnly);
+    unplayedChip.setAttribute("aria-pressed", String(filters.unplayedOnly));
     renderList();
   });
 

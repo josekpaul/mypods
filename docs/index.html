@@ -18,9 +18,9 @@
     <select id="filter-category">
       <option value="all">All categories</option>
     </select>
-    <label><input type="checkbox" id="filter-downloaded"> Downloaded only</label>
-    <label><input type="checkbox" id="filter-unplayed"> Unplayed only</label>
-    <button id="refresh-btn">Refresh</button>
+    <button type="button" class="toggle-chip" id="filter-downloaded" aria-pressed="false">Downloaded</button>
+    <button type="button" class="toggle-chip" id="filter-unplayed" aria-pressed="false">Unplayed</button>
+    <button id="refresh-btn" aria-label="Refresh">&#8635;</button>
   </div>
 </header>
 

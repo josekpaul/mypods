@@ -68,11 +68,11 @@ header h1 {
 
 .filters {
   display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
+  flex-wrap: nowrap;
+  gap: 6px;
   align-items: center;
   margin-top: 10px;
-  font-size: 0.85rem;
+  font-size: 0.8rem;
 }
 
 .filters select {
@@ -80,24 +80,38 @@ header h1 {
   color: var(--text);
   border: 1px solid var(--border);
   border-radius: 6px;
-  padding: 4px 8px;
+  padding: 4px 6px;
+  font-size: 0.8rem;
+  min-width: 0;
+  flex: 1 1 auto;
 }
 
-.filters label {
-  display: flex;
-  align-items: center;
-  gap: 4px;
+.toggle-chip {
+  background: var(--surface);
   color: var(--text-dim);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 10px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+  flex: 0 0 auto;
+}
+
+.toggle-chip.active {
+  background: var(--accent);
+  color: white;
+  border-color: var(--accent);
 }
 
 #refresh-btn {
-  margin-left: auto;
+  flex: 0 0 auto;
   background: var(--accent);
   color: white;
   border: none;
   border-radius: 6px;
-  padding: 6px 12px;
-  font-size: 0.85rem;
+  padding: 5px 10px;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 .category-section {
