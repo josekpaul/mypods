@@ -9,7 +9,11 @@
 <header>
   <h1>Podcast Player</h1>
   <div id="generated-at"></div>
-  <div class="filters">
+  <nav class="view-tabs">
+    <button class="view-tab active" id="tab-browse" data-view="browse">Browse</button>
+    <button class="view-tab" id="tab-playlist" data-view="playlist">Playlist</button>
+  </nav>
+  <div class="filters" id="browse-filters">
     <select id="filter-category">
       <option value="all">All categories</option>
     </select>
@@ -20,6 +24,7 @@
 </header>
 
 <main id="episode-list"></main>
+<main id="playlist-list" class="hidden"></main>
 
 <div id="player-bar" class="hidden">
   <div>

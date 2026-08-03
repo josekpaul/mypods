@@ -39,6 +39,33 @@ header h1 {
   color: var(--text-dim);
 }
 
+.view-tabs {
+  display: flex;
+  gap: 4px;
+  margin-top: 12px;
+  border-bottom: 1px solid var(--border);
+}
+
+.view-tab {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  padding: 8px 4px;
+  margin-right: 16px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  border-bottom: 2px solid transparent;
+}
+
+.view-tab.active {
+  color: var(--text);
+  border-bottom-color: var(--accent);
+}
+
+.hidden {
+  display: none !important;
+}
+
 .filters {
   display: flex;
   flex-wrap: wrap;
@@ -126,7 +153,9 @@ header h1 {
 
 .episode-action {
   display: flex;
-  align-items: center;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 6px;
 }
 
 .action-btn {
@@ -136,6 +165,15 @@ header h1 {
   font-size: 0.8rem;
   font-weight: 600;
   white-space: nowrap;
+}
+
+.remove-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  border-radius: 8px;
+  padding: 6px 14px;
+  font-size: 0.75rem;
 }
 
 .action-btn:disabled {

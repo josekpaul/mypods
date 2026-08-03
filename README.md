@@ -80,6 +80,7 @@ If a feed is unreachable or malformed, that show is skipped and logged — the r
 
 ### How it works
 
+- **Browse vs. Playlist tabs**: "Browse" shows the current `episodes.json` list (all recent episodes, with category/downloaded/unplayed filters). "Playlist" shows only what you've actually added or downloaded, sourced entirely from local IndexedDB — so an episode stays in your playlist even after it ages out of the aggregator's weekly lookback window and disappears from Browse.
 - **Downloading**: tapping "Add" on an episode fetches its audio directly from the original podcast host (NPR, NYT, Maximum Fun's CDN, etc.) — GitHub never hosts audio, only the episode list.
 - **Storage**: downloaded audio lives in the browser's Cache API; playback state (resume position, played/unplayed, a history log) lives in IndexedDB. Both are local to your phone's browser storage, not synced anywhere.
 - **Auto-delete**: when an episode finishes playing, its downloaded audio is deleted immediately to free up space. It stays marked "Played" and remains in your history log.

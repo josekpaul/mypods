@@ -78,7 +78,7 @@ async function renderList() {
   }
 }
 
-function renderEpisodeRow(episode, state) {
+function renderEpisodeRow(episode, state, options = {}) {
   const row = document.createElement("article");
   row.className = "episode-row";
   row.dataset.id = episode.id;
@@ -97,7 +97,18 @@ function renderEpisodeRow(episode, state) {
   `;
 
   const button = row.querySelector("button");
-  button.addEventListener("click", () => handleAction(episode, state));
+  button.addEventListener("click", () => handleAction(episode, state, options.onChange));
+
+  if (options.removable) {
+    const remove = document.createElement("button");
+    remove.className = "remove-btn";
+    remove.textContent = "Remove";
+    remove.addEventListener("click", async () => {
+      await storage.removeDownload(episode.id);
+      if (options.onChange) await options.onChange();
+    });
+    row.querySelector(".episode-action").appendChild(remove);
+  }
 
   return row;
 }
@@ -108,10 +119,11 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-async function handleAction(episode, state) {
+async function handleAction(episode, state, onChange) {
+  const refresh = onChange || renderList;
   if (!state || state.download_state === "not_downloaded" || state.download_state === "failed") {
     await storage.addToPlaylist(episode);
-    await renderList();
+    await refresh();
     return;
   }
   if (state.download_state === "downloading") {
@@ -124,6 +136,58 @@ async function handleAction(episode, state) {
   }
 }
 
+async function renderPlaylist() {
+  const container = document.getElementById("playlist-list");
+  container.innerHTML = "";
+
+  const states = await storage.getAllEpisodeStates();
+  const inPlaylist = states.filter((s) => s.download_state !== "not_downloaded" || s.played);
+
+  inPlaylist.sort((a, b) => new Date(b.added_to_playlist_at) - new Date(a.added_to_playlist_at));
+
+  if (inPlaylist.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "empty-note";
+    empty.textContent = "Nothing in your playlist yet. Add episodes from the Browse tab.";
+    container.appendChild(empty);
+    return;
+  }
+
+  for (const state of inPlaylist) {
+    // The episodes store already holds a full snapshot of episode fields,
+    // so the playlist renders straight from IndexedDB — no dependency on
+    // episode.json still listing it (episodes age out of the lookback window).
+    const row = renderEpisodeRow(state, state, {
+      onChange: renderPlaylist,
+      removable: state.download_state === "downloaded",
+    });
+    container.appendChild(row);
+  }
+}
+
+function setActiveView(view) {
+  const browseList = document.getElementById("episode-list");
+  const playlistList = document.getElementById("playlist-list");
+  const browseFilters = document.getElementById("browse-filters");
+  const tabBrowse = document.getElementById("tab-browse");
+  const tabPlaylist = document.getElementById("tab-playlist");
+
+  if (view === "playlist") {
+    browseList.classList.add("hidden");
+    browseFilters.classList.add("hidden");
+    playlistList.classList.remove("hidden");
+    tabBrowse.classList.remove("active");
+    tabPlaylist.classList.add("active");
+    renderPlaylist();
+  } else {
+    browseList.classList.remove("hidden");
+    browseFilters.classList.remove("hidden");
+    playlistList.classList.add("hidden");
+    tabBrowse.classList.add("active");
+    tabPlaylist.classList.remove("active");
+  }
+}
+
 function updateNowPlaying(episode) {
   const bar = document.getElementById("player-bar");
   bar.classList.remove("hidden");
@@ -132,6 +196,9 @@ function updateNowPlaying(episode) {
 }
 
 export function setupFilters() {
+  document.getElementById("tab-browse").addEventListener("click", () => setActiveView("browse"));
+  document.getElementById("tab-playlist").addEventListener("click", () => setActiveView("playlist"));
+
   const categorySelect = document.getElementById("filter-category");
   for (const category of CATEGORY_ORDER) {
     const opt = document.createElement("option");
@@ -170,4 +237,13 @@ export async function refreshList() {
   await renderList();
 }
 
-player.initPlayer(document.getElementById("audio-el"), renderList);
+async function renderActiveView() {
+  const playlistVisible = !document.getElementById("playlist-list").classList.contains("hidden");
+  if (playlistVisible) {
+    await renderPlaylist();
+  } else {
+    await renderList();
+  }
+}
+
+player.initPlayer(document.getElementById("audio-el"), renderActiveView);
