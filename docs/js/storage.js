@@ -74,7 +74,7 @@ export async function getHistory() {
   return all.sort((a, b) => new Date(b.occurred_at) - new Date(a.occurred_at));
 }
 
-export async function addToPlaylist(episode) {
+export async function addToPlaylist(episode, onProgress) {
   const existing = await getEpisodeState(episode.id);
   const record = existing || {
     id: episode.id,
@@ -90,6 +90,7 @@ export async function addToPlaylist(episode) {
     description: episode.description,
     description_full: episode.description_full,
     download_state: "not_downloaded",
+    download_progress: 0,
     resume_position_seconds: 0,
     duration_seconds: null,
     played: false,
@@ -97,27 +98,56 @@ export async function addToPlaylist(episode) {
     downloaded_at: null,
   };
   await putEpisodeState(record);
-  return downloadEpisode(episode.id);
+  return downloadEpisode(episode.id, onProgress);
 }
 
-export async function downloadEpisode(id) {
+export async function downloadEpisode(id, onProgress) {
   const record = await getEpisodeState(id);
   if (!record || !record.audio_url) return;
 
   record.download_state = "downloading";
+  record.download_progress = 0;
   await putEpisodeState(record);
+  if (onProgress) onProgress(0);
 
   try {
     const response = await fetch(record.audio_url);
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
     }
+
+    const total = Number(response.headers.get("content-length")) || 0;
+    let loaded = 0;
+    let bodyForCache = response;
+
+    if (response.body && total > 0) {
+      const reader = response.body.getReader();
+      const chunks = [];
+      let lastReportedPct = -1;
+      for (;;) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        chunks.push(value);
+        loaded += value.byteLength;
+        const pct = Math.min(99, Math.floor((loaded / total) * 100));
+        if (pct !== lastReportedPct) {
+          lastReportedPct = pct;
+          record.download_progress = pct;
+          await putEpisodeState(record);
+          if (onProgress) onProgress(pct);
+        }
+      }
+      bodyForCache = new Response(new Blob(chunks), { headers: response.headers });
+    }
+
     const cache = await caches.open(AUDIO_CACHE_NAME);
-    await cache.put(record.audio_url, response.clone());
+    await cache.put(record.audio_url, bodyForCache);
 
     record.download_state = "downloaded";
+    record.download_progress = 100;
     record.downloaded_at = new Date().toISOString();
     await putEpisodeState(record);
+    if (onProgress) onProgress(100);
   } catch (err) {
     record.download_state = "failed";
     await putEpisodeState(record);

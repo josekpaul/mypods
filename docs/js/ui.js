@@ -21,8 +21,11 @@ function reviewSearchUrl(episode) {
 function statusBadge(state) {
   if (!state) return { label: "Add", className: "status-none" };
   switch (state.download_state) {
-    case "downloading":
-      return { label: "Downloading…", className: "status-downloading" };
+    case "downloading": {
+      const pct = state.download_progress;
+      const label = pct > 0 ? `Downloading… ${pct}%` : "Downloading…";
+      return { label, className: "status-downloading" };
+    }
     case "downloaded":
       return state.played
         ? { label: "Played", className: "status-played" }
@@ -118,7 +121,7 @@ function renderEpisodeRow(episode, state, options = {}) {
   }
 
   const button = row.querySelector(".action-btn");
-  button.addEventListener("click", () => handleAction(episode, state, options.onChange));
+  button.addEventListener("click", () => handleAction(episode, state, button, options.onChange));
 
   if (options.removable) {
     const remove = document.createElement("button");
@@ -140,10 +143,15 @@ function escapeHtml(str) {
   return div.innerHTML;
 }
 
-async function handleAction(episode, state, onChange) {
+async function handleAction(episode, state, button, onChange) {
   const refresh = onChange || renderList;
   if (!state || state.download_state === "not_downloaded" || state.download_state === "failed") {
-    await storage.addToPlaylist(episode);
+    button.disabled = true;
+    button.textContent = "Downloading…";
+    button.className = "action-btn status-downloading";
+    await storage.addToPlaylist(episode, (pct) => {
+      button.textContent = pct > 0 && pct < 100 ? `Downloading… ${pct}%` : "Downloading…";
+    });
     await refresh();
     return;
   }
