@@ -6,7 +6,7 @@ import re
 
 import markdown as markdown_lib
 
-CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics"]
+CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics", "Finance/Economics"]
 SNIPPET_LENGTH = 200
 
 

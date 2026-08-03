@@ -1,7 +1,6 @@
 {
   "lookback_days": 7,
   "shows": [
-    {"name": "Planet Money", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510289/podcast.xml"},
     {"name": "TED Radio Hour", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510298/podcast.xml"},
     {"name": "Throughline", "network": "NPR", "category": "Science", "feed_url": "https://feeds.npr.org/510333/podcast.xml"},
     {"name": "The Quanta Podcast", "network": "Quanta Magazine", "category": "Science", "feed_url": "https://quantapodcast.quantamagazine.org/"},
@@ -23,12 +22,16 @@
     {"name": "The Daily", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/Sl5CSM3S"},
     {"name": "The Ezra Klein Show", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/82FI35Px"},
     {"name": "Hard Fork", "network": "NY Times", "category": "Politics", "feed_url": "https://feeds.simplecast.com/l2i9YnTd"},
-    {"name": "Code Switch", "network": "NPR", "category": "Politics", "feed_url": "https://feeds.npr.org/510312/podcast.xml"}
+    {"name": "Code Switch", "network": "NPR", "category": "Politics", "feed_url": "https://feeds.npr.org/510312/podcast.xml"},
+    {"name": "Planet Money", "network": "NPR", "category": "Finance/Economics", "feed_url": "https://feeds.npr.org/510289/podcast.xml"},
+    {"name": "The Indicator from Planet Money", "network": "NPR", "category": "Finance/Economics", "feed_url": "https://feeds.npr.org/510325/podcast.xml"},
+    {"name": "Slate Money", "network": "Slate", "category": "Finance/Economics", "feed_url": "https://my.slate.com/podcasts/feeds/slate-money/"}
   ],
   "keywords": {
     "Science": ["research", "study", "climate", "space", "brain", "health", "economy", "economic", "data", "technology", "physics", "biology", "discovery", "experiment", "vaccine", "artificial intelligence"],
     "Entertainment": ["movie", "film", "TV", "television", "celebrity", "review", "streaming", "music", "comedy", "actor", "actress", "show", "series", "award", "box office"],
     "Art": ["design", "artist", "music", "culture", "architecture", "exhibit", "museum", "creative", "song", "album", "book", "author", "craft", "history", "interview"],
-    "Politics": ["election", "congress", "senate", "president", "policy", "vote", "campaign", "law", "supreme court", "government", "White House", "legislation", "democracy", "administration"]
+    "Politics": ["election", "congress", "senate", "president", "policy", "vote", "campaign", "law", "supreme court", "government", "White House", "legislation", "democracy", "administration"],
+    "Finance/Economics": ["economy", "economic", "market", "markets", "stock", "inflation", "interest rate", "federal reserve", "fed", "recession", "trade", "tariff", "investing", "investment", "wall street", "gdp", "jobs report", "banking"]
   }
 }

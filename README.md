@@ -1,6 +1,6 @@
 # Podcast Aggregator
 
-Pulls recent episodes from a curated list of RSS feeds (NPR, NY Times, Maximum Fun, and others), scores them by keyword relevance against four categories — Science, Entertainment, Art, Politics — and writes a Markdown report grouped by category.
+Pulls recent episodes from a curated list of RSS feeds (NPR, NY Times, Maximum Fun, and others), scores them by keyword relevance against five categories — Science, Entertainment, Art, Politics, Finance/Economics — and writes a Markdown report grouped by category.
 
 ## Setup
 
@@ -34,7 +34,7 @@ Re-running on the same day overwrites that day's report rather than creating dup
 
 Edit `config.json`:
 
-- `shows`: each entry needs `name`, `network`, `category` (one of Science/Entertainment/Art/Politics), and `feed_url` (the actual RSS/XML feed, not the show's webpage).
+- `shows`: each entry needs `name`, `network`, `category` (one of Science/Entertainment/Art/Politics/Finance/Economics), and `feed_url` (the actual RSS/XML feed, not the show's webpage).
 - `keywords`: a list of terms per category used for relevance scoring. Title matches count double a description match. Episodes that don't match any keyword still appear in the report (this ranks, it doesn't filter) — they're just sorted last within their category.
 - `lookback_days`: the default window used when `--days` isn't passed.
 

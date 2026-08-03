@@ -2,7 +2,7 @@
 
 import { getFeedUrl } from "./settings.js";
 
-export const CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics"];
+export const CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics", "Finance/Economics"];
 
 function withCacheBust(url) {
   const separator = url.includes("?") ? "&" : "?";
