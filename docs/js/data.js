@@ -19,10 +19,9 @@ export async function fetchEpisodes() {
   }
   const data = await response.json();
 
-  const episodes = [...data.episodes].sort((a, b) => {
-    if (b.score !== a.score) return b.score - a.score;
-    return new Date(b.published_at) - new Date(a.published_at);
-  });
+  const episodes = [...data.episodes].sort(
+    (a, b) => new Date(b.published_at) - new Date(a.published_at)
+  );
 
   return {
     generatedAt: data.generated_at,
