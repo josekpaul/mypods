@@ -184,7 +184,7 @@ function playlistSortValue(state) {
 
 async function getSortedPlaylist() {
   const states = await storage.getAllEpisodeStates();
-  const inPlaylist = states.filter((s) => s.download_state !== "not_downloaded" || s.played);
+  const inPlaylist = states.filter((s) => s.download_state !== "not_downloaded" && !s.played);
   inPlaylist.sort((a, b) => playlistSortValue(a) - playlistSortValue(b));
   return inPlaylist;
 }
