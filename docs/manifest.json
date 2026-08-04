@@ -1,6 +1,6 @@
 {
-  "name": "Weekly Cast",
-  "short_name": "Weekly Cast",
+  "name": "My Pod Week",
+  "short_name": "My Pod Week",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

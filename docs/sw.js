@@ -1,6 +1,6 @@
 // App-shell caching only. Never touches podcast-audio-* caches or data/episodes.json.
 
-const APP_SHELL_CACHE = "app-shell-v4";
+const APP_SHELL_CACHE = "app-shell-v5";
 
 const APP_SHELL_FILES = [
   "./",
