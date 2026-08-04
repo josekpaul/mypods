@@ -1,6 +1,6 @@
 // DOM rendering: grouped episode list, filters, status badges, player bar.
 
-import { CATEGORY_ORDER, groupByCategory } from "./data.js";
+import { getCategoryOrder, groupByCategory } from "./data.js";
 import * as storage from "./storage.js";
 import * as player from "./player.js";
 import * as settings from "./settings.js";
@@ -59,7 +59,7 @@ async function renderList() {
   }
 
   const grouped = groupByCategory(filtered);
-  const categoriesToRender = filters.category === "all" ? CATEGORY_ORDER : [filters.category];
+  const categoriesToRender = filters.category === "all" ? getCategoryOrder(allEpisodes) : [filters.category];
 
   for (const category of categoriesToRender) {
     const episodes = grouped[category] || [];
@@ -325,13 +325,6 @@ export function setupFilters() {
   });
 
   const categorySelect = document.getElementById("filter-category");
-  for (const category of CATEGORY_ORDER) {
-    const opt = document.createElement("option");
-    opt.value = category;
-    opt.textContent = category;
-    categorySelect.appendChild(opt);
-  }
-
   categorySelect.addEventListener("change", () => {
     filters.category = categorySelect.value;
     renderList();
@@ -364,9 +357,32 @@ export function setupFilters() {
   });
 }
 
+function populateCategoryDropdown(episodes) {
+  const categorySelect = document.getElementById("filter-category");
+  const previousValue = categorySelect.value || "all";
+
+  categorySelect.innerHTML = "";
+  const allOpt = document.createElement("option");
+  allOpt.value = "all";
+  allOpt.textContent = "All categories";
+  categorySelect.appendChild(allOpt);
+
+  for (const category of getCategoryOrder(episodes)) {
+    const opt = document.createElement("option");
+    opt.value = category;
+    opt.textContent = category;
+    categorySelect.appendChild(opt);
+  }
+
+  const stillValid = [...categorySelect.options].some((opt) => opt.value === previousValue);
+  categorySelect.value = stillValid ? previousValue : "all";
+  filters.category = categorySelect.value;
+}
+
 export async function setEpisodes(episodes, generatedAt) {
   allEpisodes = episodes;
   document.getElementById("generated-at").textContent = `Updated: ${new Date(generatedAt).toLocaleString()}`;
+  populateCategoryDropdown(episodes);
   await renderList();
 }
 

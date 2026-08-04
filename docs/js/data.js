@@ -2,8 +2,6 @@
 
 import { getFeedUrl } from "./settings.js";
 
-export const CATEGORY_ORDER = ["Science", "Entertainment", "Art", "Politics", "Finance/Economics"];
-
 function withCacheBust(url) {
   const separator = url.includes("?") ? "&" : "?";
   return `${url}${separator}t=${Date.now()}`;
@@ -30,9 +28,13 @@ export async function fetchEpisodes() {
   };
 }
 
+export function getCategoryOrder(episodes) {
+  return [...new Set(episodes.map((e) => e.category))].sort();
+}
+
 export function groupByCategory(episodes) {
   const groups = {};
-  for (const category of CATEGORY_ORDER) groups[category] = [];
+  for (const category of getCategoryOrder(episodes)) groups[category] = [];
   for (const episode of episodes) {
     if (!groups[episode.category]) groups[episode.category] = [];
     groups[episode.category].push(episode);
