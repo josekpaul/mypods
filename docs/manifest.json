@@ -1,6 +1,6 @@
 {
-  "name": "Podcast Player",
-  "short_name": "Podcasts",
+  "name": "Weekly Cast",
+  "short_name": "Weekly Cast",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",
