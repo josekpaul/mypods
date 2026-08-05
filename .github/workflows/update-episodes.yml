@@ -1,0 +1,38 @@
+name: Update episodes
+
+on:
+  schedule:
+    - cron: "0 11 * * *"
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run aggregator
+        run: python aggregate.py
+
+      - name: Commit and push if episodes.json changed
+        run: |
+          if git diff --quiet -- docs/data/episodes.json; then
+            echo "No changes to episodes.json"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/episodes.json
+          git commit -m "Refresh episodes.json with the last 7 days of episodes"
+          git push
