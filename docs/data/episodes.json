@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T18:02:51.026457Z",
+  "generated_at": "2026-08-06T00:03:49.673684Z",
   "lookback_days": 7,
-  "episode_count": 88,
+  "episode_count": 90,
   "episodes": [
     {
       "id": "9963037d2d9efc00",
@@ -32,6 +32,21 @@
       "show_image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/1400/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F5e%2Fcce9847a4c6293486671ce4e36c0%2Fnpr-music-podcast-feed-tile.png",
       "description": "We open this week’s show by reflecting on the loss of Glen Hansard, an artist who was critical to shaping the sound and spirit of All Songs Considered in its earliest days. We then share some of our...",
       "description_full": "We open this week’s show by reflecting on the loss of Glen Hansard, an artist who was critical to shaping the sound and spirit of All Songs Considered in its earliest days. We then share some of our favorite new tracks of the week, including a King Princess cover of Neil Young’s “Helpless,” cheeky pop from Coco & Clair Clair, a stunning ambient track from Adam Wiltzie and the late composer Jóhann Jóhannsson, and more.NPR Music’s Dora Levite joins host Robin Hilton.Support the show with a review on Apple or Spotify wherever you listen to podcasts. Questions, comments, suggestions or feedback of any kind always welcome: allsongs@npr.orgFeatured artists and songs:(00:00) Intro and remembering Glen Hansard(03:24) Coco & Clair Clair: “Coldplay”(08:34) Claudia Isaki: “Origami”(15:30) Slayyyter: “brand new chanel$”(23:17) King Princess: “Helpless”(31:01) Dawuna: “I am a Woman too...”(36:50) Adam Wiltzie & Jóhann Jóhannsson: “White Gloves & Turtlenecks”Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "325a9818a9eb6379",
+      "title": "Mitski - Your Best American Girl",
+      "show_name": "Song Exploder",
+      "network": "Radiotopia/PRX",
+      "category": "Art",
+      "published_at": "2026-08-05T18:18:39Z",
+      "score": 8,
+      "link": "https://play.prx.org/listen?ge=prx_93_e5a3048b-9a7f-4755-9093-b0a296d88855&uf=http%3A%2F%2Ffeed.songexploder.net%2FSongExploder",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dovetail.prxu.org/93/e5a3048b-9a7f-4755-9093-b0a296d88855/SongExploder83-Mitski-2026-REISSUE-PT1.mp3",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://f.prxu.org/song-exploder/images/3b97a9c5-fef1-4c84-8038-3c6efa808016/songexploder-logo-2025-with-title.jpg",
+      "description": "In 2016, Mitski did an episode of Song Exploder about her song “Your Best American Girl.” She had just released her second album, Puberty 2. Later, Pitchfork named “Your Best American Girl” one of...",
+      "description_full": "In 2016, Mitski did an episode of Song Exploder about her song “Your Best American Girl.” She had just released her second album, Puberty 2. Later, Pitchfork named “Your Best American Girl” one of the top 10 best songs of the past decade, and Billboard named it as one of the songs that defined the decade. And in honor of the 10th anniversary of the album, there’s a new deluxe version that’s out digitally, and a limited edition vinyl is coming in October. I thought this would be a good time to revisit Mitski’s episode, where she and her collaborator Patrick Hyland break down how “Your Best American Girl” was made. To learn more, visit songexploder.net/mitski"
     },
     {
       "id": "8b43629aeec967e1",
@@ -139,21 +154,6 @@
       "description_full": "After the Iranian Revolution of 1979, the country's new leaders — religious and political — promised to redistribute the country's wealth and made moves to make Iran independent from western influence and business interests. In the decades since, Iran's economy completely transformed, and it is closer to what Yeganeh Torbati and Bozorgmehr Sharafedin describe as a \"mafia state,\" where fealty to various factions is baked into the country's political economy. In their new book Stolen Revolution: Betrayal and Hope in Modern Iran they trace the massive changes Iran's political economy has undergone since the revolution, and they speak to us today about this history, how average Iranians navigate everyday cronyism, how Iranian leaders treated the country's burgeoning tech sector, and why the recent peace talks might not change all that much about how the country's economy currently operates. Read more:A New Age of Missiles Reshapes Battlefields Around The WorldUS War With Iran Set to Drag On for Months Over Hormuz Deadlock Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
     },
     {
-      "id": "8d44747f81916ddc",
-      "title": "How power, corruption & lies influence voters' choices",
-      "show_name": "The NPR Politics Podcast",
-      "network": "NPR",
-      "category": "Politics",
-      "published_at": "2026-07-29T19:20:24Z",
-      "score": 7,
-      "link": "https://www.npr.org/2026/07/29/nx-s1-5911741/how-power-corruption-lies-influence-voters-choices",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/e053962b-69fd-4217-876d-58d1c67bf730/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=e053962b-69fd-4217-876d-58d1c67bf730&feed=iDPaKWvZ&t=podcast&e=nx-s1-5911741&p=510310&d=930&size=14890675",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
-      "description": "Overwhelming majorities of voters think that corruption is a problem, according to research from the Brennan Center for Justice. Democrats plan on making allegations of corruption a key part of their...",
-      "description_full": "Overwhelming majorities of voters think that corruption is a problem, according to research from the Brennan Center for Justice. Democrats plan on making allegations of corruption a key part of their midterm strategies, but will that succeed in getting voters' support?This episode: voting correspondent Miles Parks, congressional reporter Eric McDaniel, and senior political correspondent Mara Liasson.This podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Listen to every episode of the NPR Politics Podcast sponsor-free, unlock access to bonus episodes with more from the NPR Politics team, and support public media when you sign up for The NPR Politics Podcast+ at plus.npr.org/politics.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
       "id": "57b73e1938499502",
       "title": "Abortion access is limited. Is Hollywood to blame?",
       "show_name": "It's Been a Minute",
@@ -227,6 +227,21 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
       "description": "Irish musician Glen Hansard, best-known for his band The Frames and his part in the 2007 film ‘Once,’ died July 29 in a motorcycle crash. He was 56. Hansard got his start busking in the streets of...",
       "description_full": "Irish musician Glen Hansard, best-known for his band The Frames and his part in the 2007 film ‘Once,’ died July 29 in a motorcycle crash. He was 56. Hansard got his start busking in the streets of Dublin. Ironically, it was his headmaster who urged him to drop out of school to pursue music. He spoke with Terry Gross in 2008, with his ‘Once’ co-star Markéta Irglová. Their song from the film, “Falling Slowly,” won an Oscar for Best Original Song. Also, Kevin Whitehead pays tribute to Tony Bennett, who would have been 100 next week, and film critic Justin Chang reviews ‘I Want Your Sex.’ Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "1dc815bcb16ba09a",
+      "title": "Progressives had a good night in Michigan",
+      "show_name": "The NPR Politics Podcast",
+      "network": "NPR",
+      "category": "Politics",
+      "published_at": "2026-08-05T20:30:40Z",
+      "score": 5,
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5921300/progressives-had-a-good-night-in-michigan",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/9c527d75-726c-402d-b708-b20136bbf6ca/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=9c527d75-726c-402d-b708-b20136bbf6ca&feed=iDPaKWvZ&t=podcast&e=nx-s1-5921300&p=510310&d=1324&size=21185141",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
+      "description": "Progressive Abdul El-Sayed narrowly defeated Congresswoman Haley Stevens to win the Democratic nomination for Michigan's open Senate seat. We discuss how the results could shape November's general...",
+      "description_full": "Progressive Abdul El-Sayed narrowly defeated Congresswoman Haley Stevens to win the Democratic nomination for Michigan's open Senate seat. We discuss how the results could shape November's general election, plus results from several other races across Michigan, Missouri and Washington state. This episode: senior political correspondent Tamara Keith, political correspondent Ashley Lopez, and Michigan Public Radio Network reporter Colin Jackson.This podcast was produced by Casey Morell and edited by Rachel Baye.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "b652c803c01cc8aa",
@@ -454,6 +469,21 @@
       "description_full": "President Trump’s social media company, Truth Social, wants to sell investors early access to its posts. When Trump announces tariffs or new strikes on Iran, those milliseconds matter in the market. Is this corruption? Is this legal? And what does corruption mean for the U.S. economy? Ray Fisman’s book with Miriam A. Golden is Corruption: What Everyone Needs to Know.Fact checking by Tyler Jones. Your Next Listen — Did Trump enable insider trading?Connect with The Indicator — Sign up for The Indicator’s weekly newsletter!— Buy the Planet Money book— Find our socials, YouTube and more!— For sponsor-free episodes, subscribe to NPR+ See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
+      "id": "6ab601befe89d21e",
+      "title": "Jane Coaston: Pod Save Michigan",
+      "show_name": "The Bulwark Daily",
+      "network": "The Bulwark",
+      "category": "Politics",
+      "published_at": "2026-08-05T20:23:04Z",
+      "score": 2,
+      "link": "https://audioboom.com/posts/8936520",
+      "audio_url": "https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8936520.mp3?modified=1785961470&sid=5114286&source=rss",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://audioboom.com/i/43772354.jpg",
+      "description": "The polling was way off, but suburban Dem voters in Michigan nonetheless showed that they’re sick of the party establishment and enraged by Trump, the war, the lies, and the corruption. AIPAC didn’t...",
+      "description_full": "The polling was way off, but suburban Dem voters in Michigan nonetheless showed that they’re sick of the party establishment and enraged by Trump, the war, the lies, and the corruption. AIPAC didn’t read the room. But party leaders are sounding united behind El-Sayed and Jane predicts he’ll bring a Mamdani-like energy to his campaign against Mike Rogers. Meanwhile, Republicans are sticking with sh*tbag Max Miller. Plus: Federal agents are threatening Americans for speaking out against ICE, Vance is always looking for a way to signal that he hates the war, and what other former podcast hosts can try to segue to elected office? Jane Coaston joins Tim Miller.show notes:\nJane's podcast, \"What A Day\"\nEl-Sayed with influencers Monday night\nPhoto of Chuck Edwards\nFunction provides 160+ lab tests for $1/day and member pricing on advanced imaging. Join at functionhealth.com/THEBULWARK and use gift code THEBULWARK25.  #FunctionPartner"
+    },
+    {
       "id": "07a14189f6c45684",
       "title": "Jean Smart bids farewell to ‘Hacks’",
       "show_name": "Fresh Air",
@@ -527,21 +557,6 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/popculture-happyhour_tile_npr-network-01_sq-8f7dd7b8b06bf1f4d5c063f3752b7b60979624b4.jpg?s=1400&c=66&f=jpg",
       "description": "Zendaya and Tom Holland are back in Spider-Man: Brand New Day, and the movie has a more grounded tone than we’ve seen from the franchise. But does it strike the right balance of fun and darkness?...",
       "description_full": "Zendaya and Tom Holland are back in Spider-Man: Brand New Day, and the movie has a more grounded tone than we’ve seen from the franchise. But does it strike the right balance of fun and darkness? Directed by Daniel Destin Cretton, the film also features Jacob Batalon, Jon Bernthal, Tramell Tillman, and Sadie Sink.Looking for more spectacular Spider-episodes? Check out: 'Spider-Man: No Way Home' mixes fun and fan service'Spider-Man: Across the Spider-Verse' thrills in every dimensionConnect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport Pop Culture Happy Hour+See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "0a48aae823052c17",
-      "title": "Jonathan V. Last and Robert Kagan: Marco and Miller Go Full Fascist",
-      "show_name": "The Bulwark Daily",
-      "network": "The Bulwark",
-      "category": "Politics",
-      "published_at": "2026-07-29T21:03:51Z",
-      "score": 2,
-      "link": "https://audioboom.com/posts/8933985",
-      "audio_url": "https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8933985.mp3?modified=1785359114&sid=5114286&source=rss",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://audioboom.com/i/43772354.jpg",
-      "description": "At a little-noticed conference on political violence a couple of weeks ago, Marco Rubio and Stephen Miller employed the dehumanizing rhetoric of the Soviets and Nazi mastermind Joseph Goebbels to...",
-      "description_full": "At a little-noticed conference on political violence a couple of weeks ago, Marco Rubio and Stephen Miller employed the dehumanizing rhetoric of the Soviets and Nazi mastermind Joseph Goebbels to attack the left. And while they might want us to think they were just talking about the DSA, it sure seems that they meant Democrats generally—including those who might be legitimately protesting Trump's efforts to try to steal an election. Plus: Iran is not acting like it fears the United States, Lindsey Graham probably did more harm than good, and the Fauci drama is the latest example of the MAGA double standard about telling the truth. Bob Kagan joins guest host JVL.show notes:\nJVL's 'Triad' on Trump's best option on Iran\n\nBob's articles at The Atlantic \nGet 15% off OneSkin with the code BULWARK at https://www.oneskin.co/BULWARK #oneskinpod"
     },
     {
       "id": "ae3b1d8354d4a70d",
@@ -902,6 +917,21 @@
       "show_image_url": "https://image.simplecastcdn.com/images/89060b63-e603-4297-b6e8-5a654e50244e/f9713c33-7eca-4512-8d96-7a668e274cb2/3000x3000/image.jpg?aid=rss_feed",
       "description": "Advice. Hot tips. Book recs. Perspective. It’s the third and final installment of our Emmenology series on perimenopause and menopause, and it’s all wise words from Patrons. Dealing with brain fog,...",
       "description_full": "Advice. Hot tips. Book recs. Perspective. It’s the third and final installment of our Emmenology series on perimenopause and menopause, and it’s all wise words from Patrons. Dealing with brain fog, giving spouses grace, finding estrogen patches amid short supply, what to ask the HR department at work, and analogies that would melt even the coldest haters. Tune in, hang on, and sweat it out."
+    },
+    {
+      "id": "87e09d0c18e4d8d9",
+      "title": "How Trump made an estimated $2.2 billion last year",
+      "show_name": "Fresh Air",
+      "network": "NPR",
+      "category": "Art",
+      "published_at": "2026-08-05T18:03:28Z",
+      "score": 0,
+      "link": "https://www.npr.org/2026/08/05/nx-s1-5922199/how-trump-made-an-estimated-2-2-billion-last-year",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/6e3b0254-a45b-4f0a-a434-9f8d8b07510f/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=6e3b0254-a45b-4f0a-a434-9f8d8b07510f&feed=jBsBZBHh&t=podcast&e=nx-s1-5922199&p=381444908&d=2773&size=44376486",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
+      "description": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump’s conflicts of interest and whether he’s exploiting the power of the presidency for self-enrichment....",
+      "description_full": "New York Times reporter Eric Lipton discusses his Pulitzer Prize-winning investigations into Trump’s conflicts of interest and whether he’s exploiting the power of the presidency for self-enrichment. Lipton spoke with Terry Gross. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "c935b5706d08df30",
