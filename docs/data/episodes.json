@@ -1,8 +1,23 @@
 {
-  "generated_at": "2026-09-21T00:56:56.914174Z",
+  "generated_at": "2026-09-21T16:49:10.991750Z",
   "lookback_days": 7,
-  "episode_count": 90,
+  "episode_count": 91,
   "episodes": [
+    {
+      "id": "78ea0060b399fe4c",
+      "title": "Listener Stories 2026 (Gold): Protest Pop & Birthday Ballads",
+      "show_name": "Twenty Thousand Hertz",
+      "network": "Defacto Sound",
+      "category": "Art",
+      "published_at": "2026-09-21T10:00:00Z",
+      "score": 14,
+      "link": "https://play.prx.org/listen?ge=prx_18144_f83022e4-1bc3-4334-a167-82006368bcbb&uf=https%3A%2F%2Ffeed.20k.org",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/dovetail.prxu.org/18144/f83022e4-1bc3-4334-a167-82006368bcbb/0249_-_Listener_Stories_Gold_v5.mp3",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://f.prxu.org/18144/images/24983ab6-e43f-4b49-8c21-f3b4d461c758/Twenty_Thousand_Hertz_-_Key_Icon_-_3000x3000.jpeg",
+      "description": "We’re proud to present the top selections from our 2026 Listener Story competition. In these extraordinary pieces, you’ll hear about the forgotten world of free online record labels, the...",
+      "description_full": "We’re proud to present the top selections from our 2026 Listener Story competition. In these extraordinary pieces, you’ll hear about the forgotten world of free online record labels, the controversial sounds that shape public spaces, the hidden history of a global pop hit, and finally, this year’s winning story.Twenty Thousand Hertz is produced by Defacto Sound.Subscribe on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ to see our video series.Follow Dallas on ⁠⁠⁠⁠⁠⁠⁠Instagram⁠⁠⁠⁠⁠⁠⁠, ⁠⁠⁠⁠⁠⁠⁠TikTok⁠⁠⁠⁠⁠⁠⁠, ⁠⁠Facebook⁠⁠, and ⁠⁠⁠⁠⁠⁠⁠LinkedIn⁠⁠⁠⁠⁠⁠⁠.If you know what this week's mystery sound is, tell us at ⁠⁠⁠⁠⁠⁠⁠⁠mystery.20k.org⁠⁠⁠⁠⁠⁠⁠⁠.Support the show and get ad-free episodes at ⁠⁠⁠⁠⁠⁠20k.org/plus⁠⁠⁠⁠⁠⁠.Listener Links:\nExplore Wesley Slover’s custom music at sanctus.audio.\nLearn about the Sound Co-Op audio collective.\nLearn about defensive urbanism and subscribe to Darknet Diaries. \nExplore Ricardo Ramirez’s work at rezsounds.com.\nBuild your home sound system today at sonos.com.Get NetSuite's free business guide, \"Aligning for the Agentic Era: How AI Is Changing Everyday Work,\" at netsuite.com/20k."
+    },
     {
       "id": "a34407993a2c5c02",
       "title": "New Music Friday: The best albums out Sept. 18",
@@ -17,6 +32,21 @@
       "show_image_url": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x3000+0+0/resize/1400/quality/66/format/jpg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Faf%2F5e%2Fcce9847a4c6293486671ce4e36c0%2Fnpr-music-podcast-feed-tile.png",
       "description": "Beck. Carly Rae Jepsen. Beabadoobee. Host Stephen Thompson breaks down the best albums out Friday, Sept. 18 with DJs from around the NPR Music network: Robert Moore from 90.9 The Bridge in Kansas...",
       "description_full": "Beck. Carly Rae Jepsen. Beabadoobee. Host Stephen Thompson breaks down the best albums out Friday, Sept. 18 with DJs from around the NPR Music network: Robert Moore from 90.9 The Bridge in Kansas City, Amelia Mason from WBUR in Boston, and Brian Burns from WUNC in Chapel Hill. Plus, a handful of of NPR Music writers and critics offer their personal picks in the lightning round.The Starting 5(01:01) Album No. 1- Beck, 'Ride Lonesome'(07:10) Album No. 2- beabadoobee, 'Pylon'(13:01) Album No.3- Carly Rae Jepsen, 'Day and Night'(21:32) Album No. 4- Tove Lo, 'ESTRUS'(28:22) Album No. 5- Rhiannon Giddens, 'Hope is the Thing with Feathers'(34:18) The Lightning Round- Jake Xerxes Fussell, 'The Old Beloved Path'- Jóhann Jóhannsson & Adam Wiltzie, 'Friendship Survival Guide'- YENDRY, 'Como agua'- Krallice, 'Scour Order'- Son Lux, 'Out Into'Sample the albums via our New Music Friday playlist and see our Long List of notable releases on NPR.orgCredits:Host: Stephen ThompsonGuests: Robert Moore, Amelia Mason, Brian BurnsAudio Producer: Noah CaldwellDigital Producer: Dora LeviteEditors: Elle Mannion, Otis HartExecutive Producer: Suraya MohamedSpecial thanks to Anamaria Sayre, Lars Gotrich and Robin HiltonSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "abff9ca93033ddd4",
+      "title": "Great documentaries you don’t want to miss",
+      "show_name": "Pop Culture Happy Hour",
+      "network": "NPR",
+      "category": "Entertainment",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 12,
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5973163/great-documentaries-you-dont-want-to-miss",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/f1061d70-583c-40cd-9574-4b725c93c5fd/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=f1061d70-583c-40cd-9574-4b725c93c5fd&feed=QGMNw0q1&t=podcast&e=nx-s1-5973163&p=510282&d=1323&size=21183887",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/popculture-happyhour_tile_npr-network-01_sq-8f7dd7b8b06bf1f4d5c063f3752b7b60979624b4.jpg?s=1400&c=66&f=jpg",
+      "description": "We talk a lot about movies and TV shows, but new documentary films sometimes can sometimes get lost in the shuffle. So today we’re highlighting some new documentaries that are worth your time and you...",
+      "description_full": "We talk a lot about movies and TV shows, but new documentary films sometimes can sometimes get lost in the shuffle. So today we’re highlighting some new documentaries that are worth your time and you don’t want to miss – including Remake, The History of Concrete, Black Zombie, The Oldest Person in the World, and You Had to Be There.Looking for more films that might have flown under your radar? Check out these episodes:Great movies you may have missedFun movies you may have missedOur favorite movies on TubiConnect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "67d05ace093e8a88",
@@ -47,21 +77,6 @@
       "show_image_url": "https://f.prxu.org/song-exploder/images/3b97a9c5-fef1-4c84-8038-3c6efa808016/songexploder-logo-2025-with-title.jpg",
       "description": "Donate to Dolly Parton's Imagination Library here: https://donate.imaginationlibrary.com/Donate to Women's Media Center, co-founded by Gloria Steinem, here:...",
       "description_full": "Donate to Dolly Parton's Imagination Library here: https://donate.imaginationlibrary.com/Donate to Women's Media Center, co-founded by Gloria Steinem, here: https://act.womensmediacenter.com/a/support-wmc- When I heard the news of Dolly Parton’s death, and then a few days later, of Gloria Steinem’s death, I thought about this song that Natalie Merchant wrote called \"Sister Tilly.\" It’s about losing a generation of activist women who did so much in their lifetimes. And so I wanted to go back and revisit Natalie Merchant’s song, and her beautiful story about what it means to her. This episode originally came out in June 2023. —HrishikeshNatalie Merchant is an award-winning singer and songwriter from upstate New York. She was the lead singer of the band 10,000 Maniacs until she left in 1993. And then, as a solo artist, she’s put out nine albums over the last 30 years. Between 10,000 Maniacs and her solo work, she’s had multiple multi-platinum records.In April 2023, Natalie put out her first album of new songs in nine years. It’s called Keep Your Courage. And for this episode, she talked to me about the song “Sister Tilly.\" It’s a eulogy for a fictional character – a woman who represents the generation of women who influenced her. Women who were activists in the 1960s and 70s, when she was growing up.For more, visit songexploder.net/natalie-merchant."
-    },
-    {
-      "id": "5541cbf9de700112",
-      "title": "The Home Depot",
-      "show_name": "Acquired",
-      "network": "Independent",
-      "category": "Tech",
-      "published_at": "2026-09-14T03:35:03Z",
-      "score": 10,
-      "link": "https://www.acquired.fm/episodes/home-depot",
-      "audio_url": "https://pscrb.fm/rss/p/media.transistor.fm/8ecb4ed4/568b6b7a.mp3",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://img.transistorcdn.com/SYy-ia3mZbFnUAhbvsUEVW0EZyOaJlbF1tNaO9_3qEw/rs:fill:0:0:1/w:1400/h:1400/q:60/mb:500000/aHR0cHM6Ly9pbWct/dXBsb2FkLXByb2R1/Y3Rpb24udHJhbnNp/c3Rvci5mbS8zNjQx/ZWZhM2YzZTI3YjA5/MDZhYmE3ZWUzNzU2/ZWYzMy5qcGc.jpg",
-      "description": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from...",
-      "description_full": "The Home Depot's founding story is like an Avengers movie… if the Avengers got fired, went broke, and stacked empty paint cans ten feet high to look legitimate. After being unceremoniously fired from their previous hardware chain at ages 48 and 35, Bernie Marcus and Arthur Blank took the words of their New York banker Ken Langone (who had also just accidentally caused their firings) to heart: they'd just been \"kicked in the ass with a golden horseshoe.” They proceeded to author the greatest compounding story in American retail history, helped by some legendary cameos along the way from Sol Price, Jamie Dimon, and Ross Perot (to name a few). And the ending is as good as any superhero film: from its 1981 IPO to today, The Home Depot has been the single highest-returning equity in the entire US stock market — higher than Apple, Microsoft, Berkshire Hathaway, and everything else!Sponsors:Many thanks to our fantastic Fall '26 Season partners:SierraWorkOSAnthropicSentryLinks:Sign up for email updates, get our takeaways and research photos from each episode, and vote on future topics!The Official Acquired Meetup on Sept 17th with our friends at Sentry. Join us!The Acquired Home Depot Companion PDFOur Visual Artifacts page for Home DepotBuilt from Scratch by Bernie Marcus and Arthur BlankKick Up Some Dust by Bernie MarcusThe Board Wore Chicken Suits by Joe Nocera, The New York TimesFrank Blake on Invest Like the BestKen Langone's interview with Arvind NavaratnamWorldly Partners' Multi-Decade Home Depot StudyAll episode sourcesCarve Outs:Silo Season 3Tires Season 3Ratio 8 Coffee MakerTrade CoffeeQuarterbackComedianMore Acquired:Get email updates and vote on future episodes!Join the SlackCheck out the latest swag in the ACQ Merch Store!00:00:00 Start00:00:43 Intro00:05:32 Bernie Marcus's Early Career and meeting Arthur Blank (1972)00:15:58 Ken Langone & Handy Dan (1970s)00:33:08 Ken Buys Handy Dan, Bernie & Arthur Fired00:43:55 Ross Perot Almost Buys Home Depot00:51:20 Pat Farrah & The HomeCo Interlude01:05:03 First Stores & Early Model (1979)01:14:16 Home Depot Goes Public & Expands (1981)01:24:35 Home Depot's Unique Operating System01:46:01 Arthur Blank Takes CEO & Early Cracks (1997)01:56:07 The Bob Nardelli Era (2000-2007)02:12:09 Nardelli's Public Downfall & Firing (2006-2007)02:24:24 Frank Blake's Turnaround: Crisis & Culture (2007)02:42:30 E-commerce & Distribution Revolution02:59:57 Home Depot Today: Pro & DIY (2024)03:12:04 Analysis: The Paradox of Specialness03:16:18 7 Powers: Home Depot's Competitive Advantages03:19:17 Quintessence: Why It Got So Big03:26:27 Carve-Outs + Outro‍Note: Acquired hosts and guests may hold assets discussed in this episode. This podcast is not investment advice, and is intended for informational and entertainment purposes only. You should do your own research and make your own independent decisions when considering any financial transactions."
     },
     {
       "id": "3eb80da41538a6b2",
@@ -107,6 +122,21 @@
       "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
       "description": "Voters tell us they're frustrated with the economy, that costs are too high, and that neither Democrats nor Republicans seem able to solve their problems. We listen to swing voters in Michigan to...",
       "description_full": "Voters tell us they're frustrated with the economy, that costs are too high, and that neither Democrats nor Republicans seem able to solve their problems. We listen to swing voters in Michigan to understand how their worries could impact that state's Senate race.This episode: senior political correspondent Tamara Keith, congressional reporter Sam Gringlas, and senior national political correspondent Mara Liasson.This podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "57ccf117e64d6a72",
+      "title": "Why we should all be 'bookmaxxing'",
+      "show_name": "Short Wave",
+      "network": "NPR",
+      "category": "Science",
+      "published_at": "2026-09-19T00:01:05Z",
+      "score": 7,
+      "link": "https://www.npr.org/2026/09/18/nx-s1-5968677/reading-fun-brain-science",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/280cc23f-b5ca-41af-9ec4-8f51101ca6fb/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=280cc23f-b5ca-41af-9ec4-8f51101ca6fb&feed=F0qJcgXZ&t=podcast&e=nx-s1-5968677&p=510351&d=658&size=10541017",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+      "description": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most...",
+      "description_full": "Remember your mom, dad and teachers telling you to read because it’s good for you? Well, a compilation of the latest research shows they were right. “Reading is one of the simplest and most accessible activities for actually supporting cognitive performance, brain health, mental health, but also overall wellbeing throughout our lives,” said Christelle Langley, a cognitive neuroscientist at the University of Cambridge and co-author of review, published in the journal Psychological Medicine. The review looked specifically at recreational reading — reading for fun — and found broad benefits for children, adolescents and older adults. This episode, we dive deep into the joys and health benefits of bookmaxxing. Interested in the science of reading? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "4fb8d0121056a09b",
@@ -212,21 +242,6 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/popculture-happyhour_tile_npr-network-01_sq-8f7dd7b8b06bf1f4d5c063f3752b7b60979624b4.jpg?s=1400&c=66&f=jpg",
       "description": "The Netflix TV show Crew Girl follows in the footsteps of successful coming-of-age dramas like Sterling Point and The Summer I Turned Pretty. It follows Teagan, an ambitious high school rower (Miku...",
       "description_full": "The Netflix TV show Crew Girl follows in the footsteps of successful coming-of-age dramas like Sterling Point and The Summer I Turned Pretty. It follows Teagan, an ambitious high school rower (Miku Martineau) trying to fit in on the boys’ crew team at a fancy prep school. The show’s got a plucky fish out of water, a love triangle with two very different boys (Kyle Clark and Sam Braun), and a dreamy sunlit setting. But does Crew Girl sink, swim, or row?Looking for more teen coming-of-age stories? Check out these episodes:You’ll want more time in ‘Sterling Point’‘The Summer I Turned Pretty’ has drama, romance and the music of Taylor SwiftThe delightful 'My Old Ass' seeks wisdom from hindsightConnect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "c3027b35018d2edd",
-      "title": "Should race affect BMI guidelines? Doctors are split",
-      "show_name": "Short Wave",
-      "network": "NPR",
-      "category": "Science",
-      "published_at": "2026-09-14T07:00:00Z",
-      "score": 6,
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5818478/health-body-medicine-doctor-fat-race",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/f6ce454d-d6e7-4773-9b72-e18a40291170/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=f6ce454d-d6e7-4773-9b72-e18a40291170&feed=F0qJcgXZ&t=podcast&e=nx-s1-5818478&p=510351&d=827&size=13238901",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
-      "description": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it,...",
-      "description_full": "BMI is a quick, cheap way for doctors to estimate body fat and screen for conditions like heart disease and diabetes. But medicine has long known that BMI is problematic and unnuanced. By using it, groups of people have fallen through the cracks and conditions have been caught late. So, some doctors want to add nuance – to consider race when using BMI. But using race in medicine comes with its own problems. So what’s the way forward? To find out, we talk to Katie Wu, a science writer at The Atlantic.Read more of Katie’s reporting on BMI and race.Interested in more science health stories? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "ccfab2124fe651a8",
@@ -379,19 +394,19 @@
       "description_full": "A Putin bestie who's involved with the kidnapping of Ukrainian children bankrolled Don Jr.'s island wedding for some mysterious reason. Kushner is calling on Ukraine to give in to Putin's territorial demands. And Trump himself is blaming Zelensky for the high cost of diesel even though prices shot up after Trump launched his war of choice. It's the whole Trump family that tends to remind us of their close ties to Russia, Russia, Russia. Meanwhile, POTUS is not troubled by China's involvement with the death of U.S. soldiers in the Mideast. Plus: Adam Hamilton in Kansas was on fire in his debate with Roger Marshall, the list of horrible Republican candidates keeps growing, and the fears about AI have broken wide open.Bill Kristol joins Tim Miller. show notes:\nProPublica on the Russian oligarch bankrolling Don Jr.'s wedding\nThe Bulwark's campaign to help the Haitian community of Springfield\nTim's 'Take' on the debate between Mary Peltola and Dan Sullivan\nBill in \"Morning Shots\" on AI fears\nThe NYT on Roger Marshall suing patients for debts\nThe Trio 'Take' on Brandon Herrera\nThe Bulwark Store\nGet 20% off your DeleteMe plan when you go to www.joindeleteme.com/BULWARK and use promo code BULWARK at checkout.\n\nBulwark LIVE: Benefit for SpringfieldSome moments require you to step up. Some require you to show up. That’s why The Bulwark is coming to Ohio.  Join Tim, Sarah, JVL, Sam and friends Friday, September 25 at the Dayton Masonic Center for an evening of politics and fellowship."
     },
     {
-      "id": "c11366e7f87b6441",
-      "title": "A beautiful bill, Mamdani's market, and stock subscriptions",
-      "show_name": "The Indicator from Planet Money",
-      "network": "NPR",
-      "category": "Finance/Economics",
-      "published_at": "2026-09-14T07:00:00Z",
-      "score": 4,
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5966952/a-beautiful-bill-mamdanis-market-and-stock-subscriptions",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/a4bb3c50-442a-44ca-b6a9-7b27f13f85e3/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=a4bb3c50-442a-44ca-b6a9-7b27f13f85e3&feed=IFy3imsg&t=podcast&e=nx-s1-5966952&p=510325&d=569&size=9118703",
+      "id": "cfb1225f017f0950",
+      "title": "The Trump Administration Defangs the Endangered Species Act",
+      "show_name": "The Daily",
+      "network": "NY Times",
+      "category": "Politics",
+      "published_at": "2026-09-21T09:45:00Z",
+      "score": 3,
+      "link": "https://www.nytimes.com/the-daily",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/265f73f4-9a55-4715-abe2-b563ef58f7c6/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=265f73f4-9a55-4715-abe2-b563ef58f7c6&feed=Sl5CSM3S",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
-      "description": "It’s time for another Indicator Quiz! For today’s quiz, we’re testing the Indicator knowledge of a brilliant mathematician. Will we stump his theoretician brain? Tune in and find out! Interested in...",
-      "description_full": "It’s time for another Indicator Quiz! For today’s quiz, we’re testing the Indicator knowledge of a brilliant mathematician. Will we stump his theoretician brain? Tune in and find out! Interested in being a contestant on our next Indicator Quiz? Email us your name and phone number to indicator@npr.org and put \"Indicator Quiz\" in the subject.Fact checking by Sierra Juarez.Your Next Listen — An urban planner, infinite scroll, and … what is a public good?Connect with The Indicator — Sign up for The Indicator’s weekly newsletter! — Buy the Planet Money book — Find our socials, YouTube and more! — For sponsor-free episodes, subscribe to NPR+ Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+      "description": "A new interpretation of the law would mean that only the intentional killing of animals, not collateral harm, would be illegal.",
+      "description_full": "A new interpretation of the law would mean that only the intentional killing of animals, not collateral harm, would be illegal."
     },
     {
       "id": "351b67090eb8726d",
@@ -527,21 +542,6 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
       "description": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by...",
       "description_full": "Nearly every person will experience at least one diagnostic error in their lifetime. That means either a delayed diagnosis, a wrong diagnosis – or no diagnosis at all. That’s according to a report by the National Academies of Sciences, Engineering and Medicine from 2015 on diagnostic error. Today on the show we talk to a physician who was personally affected by the crisis, and New York Times editor and author of the book The Elusive Body: Patients, Doctors and the Diagnosis Crisis.If you liked this episode, check out these other episodes:- How science is taking tripping mainstream- What If You Took The \"Trip\" Out Of Ketamine?- Could Psychedelics Become Tripless?- The Reality Of OCDInterested in more medical science? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "ee5255f6f096711c",
-      "title": "OpenAI President Greg Brockman on Doing Business in the Wake of Hugging Face",
-      "show_name": "Odd Lots",
-      "network": "Bloomberg",
-      "category": "Finance/Economics",
-      "published_at": "2026-09-14T08:00:00Z",
-      "score": 3,
-      "link": "https://omny.fm/shows/odd-lots/openai-president-greg-brockman-on-doing-business-in-the-wake-of-hugging-face",
-      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/1664f593-6ca2-4a3e-bbe6-b4c201317baa/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "description": "According to OpenAI President Greg Brockman, the models that escaped their sandbox and hacked into Hugging Face's servers had yet to go through alignment training. That they were able to break free...",
-      "description_full": "According to OpenAI President Greg Brockman, the models that escaped their sandbox and hacked into Hugging Face's servers had yet to go through alignment training. That they were able to break free of the testing environment was not a surprise to OpenAI, but what has happened since has forced them to rethink some things. Today, we talk to Brockman about what OpenAI has learned since the hacking incident and we discuss why he thinks the conversation around model development has to change. We also talk about how OpenAI collaborates and communicates with competitors like Anthropic, how he thinks models should be evaluating what counts as “good writing,” and, of course, we get his thoughts on how seriously we should be worried about the AI doomsday scenarios. Read more:OpenAI Is Open to Slowing Cutting-Edge AI, CEO Sam Altman Tells StaffTech’s New Rich Are Suffering From ‘Sudden Wealth Syndrome’ Only Bloomberg - Business News, Stock Markets, Finance, Breaking & World News subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
     },
     {
       "id": "d99d041c1bde772e",
@@ -692,6 +692,51 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/22/code-switch_tile_npr-network-01_sq-d238b5cbd3882f82ea3253c4facbe1f6fc9a78a1.jpg?s=1400&c=66&f=jpg",
       "description": "The WNBA is more popular than ever, but the growth has come with a lot of unwanted attention, like protests at games and death threats directed towards players. This week, we talk with independent...",
       "description_full": "The WNBA is more popular than ever, but the growth has come with a lot of unwanted attention, like protests at games and death threats directed towards players. This week, we talk with independent journalist Frankie de la Cretaz about what brought all of this hate into the league, and NPR’s domestic extremism correspondent, Odette Yousef, about the ways the league is responding.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "21e88b4867c84447",
+      "title": "How to Make a Difference: Part 1",
+      "show_name": "Hidden Brain",
+      "network": "Hidden Brain Media",
+      "category": "Science",
+      "published_at": "2026-09-21T15:21:37Z",
+      "score": 1,
+      "link": "https://www.hiddenbrain.org/",
+      "audio_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/9f3598ec-639c-4183-8c59-d599f77285b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=9f3598ec-639c-4183-8c59-d599f77285b6&feed=kwWc0lhf",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed",
+      "description": "Why do some people act on the possibilities before them, while others come to believe that nothing they do will make a difference? Psychologist Martin Seligman describes his groundbreaking research...",
+      "description_full": "Why do some people act on the possibilities before them, while others come to believe that nothing they do will make a difference? Psychologist Martin Seligman describes his groundbreaking research on learned helplessness, and explains how the stories we tell ourselves about setbacks can shape what we do next. We also explore how optimism can help us rediscover our ability to change things for the better."
+    },
+    {
+      "id": "74360e2a30ac829e",
+      "title": "Are we in a 'color recession'?",
+      "show_name": "It's Been a Minute",
+      "network": "NPR",
+      "category": "Entertainment",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 1,
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5968667/are-we-in-a-color-recession",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510317/npr.simplecastaudio.com/d26aaa31-0a11-46ca-a4ae-a682d381c8c1/episodes/49b355fc-5df4-437c-b656-1ec33cce6ce1/audio/128/default.mp3?awCollectionId=d26aaa31-0a11-46ca-a4ae-a682d381c8c1&awEpisodeId=49b355fc-5df4-437c-b656-1ec33cce6ce1&feed=eQwWJH5j&t=podcast&e=nx-s1-5968667&p=510317&d=1525&size=24409697",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2023/02/27/ibam_tile-2023_sq-7803f41ed0370749ef50b8afb21b3d35f64d3870.jpg?s=1400&c=66&f=jpg",
+      "description": "Are neutrals dominating your color palette?Our world is looking kind of gray. Not the trees, the grass or the sky – but the cars, the buildings, the houses, and the decor and appliances in them....",
+      "description_full": "Are neutrals dominating your color palette?Our world is looking kind of gray. Not the trees, the grass or the sky – but the cars, the buildings, the houses, and the decor and appliances in them. Neutrals dominate – like the famous “Millennial gray.” There are a lot of reasons, both structural and cultural, why color is leaching out of some of our most important and most expensive possessions – but what do we think our colors say about us? And what role does color play in our lives today?To get into it, Brittany is joined by Amogh Dimri, assistant editor at The Atlantic and the writer of a piece about “the color recession,” and Katy Kelleher, a writer, editor, and author of the book The Ugly History of Beautiful Things.(00:00) What does the color recession look like?(02:26) How American cities lost their color(06:26) Who's really picking 'Millennial gray'?(08:28) What color choices say about class(13:15) Why color might be scary(20:33) Finding the freedom to be colorfulFor more episodes on tastes, design and material culture, check out:Fashion isn't art. It's something more.The ugly truth of America's expensive homesThe hard work of having \"good taste\"Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "dde09b6e317e33e1",
+      "title": "How Hemp-THC businesses are bracing for a near total ban",
+      "show_name": "The Indicator from Planet Money",
+      "network": "NPR",
+      "category": "Finance/Economics",
+      "published_at": "2026-09-21T07:00:00Z",
+      "score": 1,
+      "link": "https://www.npr.org/2026/09/21/nx-s1-5973166/how-hemp-thc-businesses-are-bracing-for-a-near-total-ban",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3375c860-25ac-4f5c-b898-4fbd34f4c013/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3375c860-25ac-4f5c-b898-4fbd34f4c013&feed=IFy3imsg&t=podcast&e=nx-s1-5973166&p=510325&d=520&size=8320819",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
+      "description": "Follow us to Tennessee where hemp farmers are already pivoting in the face of a state ban and soon, a looming federal ban on basically all THC-derived hemp products. Will Congress step in to save...",
+      "description_full": "Follow us to Tennessee where hemp farmers are already pivoting in the face of a state ban and soon, a looming federal ban on basically all THC-derived hemp products. Will Congress step in to save this $28 billion industry? Fact checking by Sierra Juarez.Your Next Listen — How would-be weed merchants hit a ‘grass ceiling’  Connect with The Indicator — Sign up for The Indicator’s weekly newsletter! — Buy the Planet Money book — Find our socials, YouTube and more! — For sponsor-free episodes, subscribe to NPR+ Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "8dd5992bab148d16",
@@ -889,19 +934,49 @@
       "description_full": "The summer of 2026 turned into the summer of predictive markets. Polymarket and Kalshi, two of the largest betting platforms in the US, expanded their marketing to reach users everywhere. And they seem to be actively pursuing women customers — highlighting bets on who'd win Love Island USA to who'd attend the Taylor Swift Travis Kelce wedding. To discuss this phenomenon, we’re talking with Nancy Walecki, staff writer at The Atlantic and Lauren McCarthy, business reporter at The New York Times, to understand how predictive markets are catering to women, and what it all means. Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "eeb46d0c334e63a7",
-      "title": "The rising power of American Muslims",
-      "show_name": "It's Been a Minute",
-      "network": "NPR",
-      "category": "Entertainment",
-      "published_at": "2026-09-14T07:00:00Z",
-      "score": 1,
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5963896/the-rising-power-of-american-muslims",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510317/npr.simplecastaudio.com/d26aaa31-0a11-46ca-a4ae-a682d381c8c1/episodes/79efd61e-ee7d-467c-8298-bd8e33637aeb/audio/128/default.mp3?awCollectionId=d26aaa31-0a11-46ca-a4ae-a682d381c8c1&awEpisodeId=79efd61e-ee7d-467c-8298-bd8e33637aeb&feed=eQwWJH5j&t=podcast&e=nx-s1-5963896&p=510317&d=2084&size=33349008",
+      "id": "0f979d09c50e6c75",
+      "title": "Bringing hard electronics into soft and squishy bodies",
+      "show_name": "Science Friday",
+      "network": "WNYC Studios",
+      "category": "Science",
+      "published_at": "2026-09-21T10:00:00Z",
+      "score": 0,
+      "link": "https://www.wnycstudios.org/podcasts/science-friday",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/ac8e2039-dfef-4938-b66a-c2f58f4b7599/episodes/715f3eab-4015-432d-ab97-5776908d5ae1/audio/128/default.mp3?aid=rss_feed&awCollectionId=ac8e2039-dfef-4938-b66a-c2f58f4b7599&awEpisodeId=715f3eab-4015-432d-ab97-5776908d5ae1&feed=h18ZIZD_",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2023/02/27/ibam_tile-2023_sq-7803f41ed0370749ef50b8afb21b3d35f64d3870.jpg?s=1400&c=66&f=jpg",
-      "description": "Is this a new era for American Muslims?American Muslims are building their own cultural institutions – New York Magazine and The Guardian have reported on flourishing ecosystems of cafes, magazines,...",
-      "description_full": "Is this a new era for American Muslims?American Muslims are building their own cultural institutions – New York Magazine and The Guardian have reported on flourishing ecosystems of cafes, magazines, dance nights, meetups and readings for Muslims and/or people with heritage from the SWANA region. And on a political level, Muslims like Minnesota Representative Ilhan Omar and New York Mayor Zohran Mamdani have become prominent faces of the left. On the one hand, this swell of Muslims coming up in politics and building cultural institutions is not surprising – there are over 4 million Muslims in America. On the other hand, this shift is pretty significant given how deeply Islamophobia and racism are rooted in our culture. So what's changed for American Muslims in recent years, and what’s stayed the same? What does it mean that Muslims are accruing a little more political and cultural capital now, and that non-Muslims are noticing?To get deeper into it, Brittany is joined by Dr. Donna Auston, cultural anthropologist, and Dr. Tazeen Ali, scholar of Islam in America and associate professor of religion and politics at Washington University in St. Louis.(00:00) Is this a new era for American Muslims?(02:19) From family joints to Instagrammable coffee shops(11:11) The Muslim faces of the progressive movement(14:51) Systemic Islamophobia in America(20:35) How race shapes Muslim communities(27:04) Shifting views on Gaza amidst persistent IslamophobiaSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+      "show_image_url": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/88d16dd9-fbeb-4b94-acd3-e9871b5060cc/3000x3000/sciencefriday-showsquare-2025-3000x3000.jpg?aid=rss_feed",
+      "description": "Inventor John Rogers bridges the natural and artificial worlds with flexible, biocompatible electronics.",
+      "description_full": "Inventor John Rogers bridges the natural and artificial worlds with flexible, biocompatible electronics."
+    },
+    {
+      "id": "becd34fa6c00cb58",
+      "title": "Dark matter and the end of answers",
+      "show_name": "Unexplainable",
+      "network": "Vox",
+      "category": "Science",
+      "published_at": "2026-09-21T08:00:00Z",
+      "score": 0,
+      "link": "https://www.vox.com/unexplainable",
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP3532862355.mp3",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://megaphone.imgix.net/podcasts/bf04a680-6afe-11eb-a86a-3f07259749a3/image/d510ec950f9a501094c11003381fcedc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "description": "Five-sixths of all the matter in the universe is this invisible stuff called dark matter, and scientists barely understand what it is. So what happens if we can't answer arguably the biggest mystery...",
+      "description_full": "Five-sixths of all the matter in the universe is this invisible stuff called dark matter, and scientists barely understand what it is. So what happens if we can't answer arguably the biggest mystery in the universe? One physicist decided to quit because he started asking questions that went way beyond what he initially thought science was for.\n\nGuest: Joseph Howlett, reporter at Scientific American\n\n\n\nFor show transcripts, go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/unxtranscripts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nFor more, go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/unexplainable⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nAnd please email us! ⁠⁠⁠⁠unexplainable@vox.com⁠⁠⁠⁠\n\nWe read every email.\n\nSupport Unexplainable (and get ad-free episodes) by becoming a Vox Member today: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/members⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠\n\nThank you!\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+      "id": "80d00ff567c5bb6b",
+      "title": "How LA Is Quietly Becoming America's New Industrial Tech Hub",
+      "show_name": "Odd Lots",
+      "network": "Bloomberg",
+      "category": "Finance/Economics",
+      "published_at": "2026-09-21T08:00:00Z",
+      "score": 0,
+      "link": "https://omny.fm/shows/odd-lots/how-la-is-quietly-becoming-americas-new-industrial-tech-hub",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8d30821d-cf7d-4147-b00e-b4cb01647404/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "description": "The story you hear nowadays is that America is struggling to make things and can't compete with China when it comes to advanced manufacturing. But of course, there's tons of high-tech stuff being...",
+      "description_full": "The story you hear nowadays is that America is struggling to make things and can't compete with China when it comes to advanced manufacturing. But of course, there's tons of high-tech stuff being produced in the US, and more and more companies are doing it out of Southern California, with factories sprouting up around Los Angeles to build things like precision metal parts and jet engines. Two founders who are actively engaged in building things in LA are Tom Mueller, founder of Impulse Space (and Employee No. 1 at SpaceX), as well as Hadrian founder Chris Power. Impulse Space is building in-space transport vehicles while Hadrian is creating autonomous factories. This episode, which was recorded live at the Vermont Hollywood, is from our first ever Odd Lots live show in LA . We talk to Chris and Tom about how the US lost its manufacturing edge and why LA is becoming a destination for people who want to make and build hardware.See omnystudio.com/listener for privacy information."
     },
     {
       "id": "b525be9d0b9365fa",
@@ -1144,21 +1219,6 @@
       "description_full": "Yohannes Haile-Selassie has a talent for spotting fossils, and has discovered clues to several branches of the human family tree."
     },
     {
-      "id": "d24c0021d04014f0",
-      "title": "48 Days Until the Midterms: Is a Blue Wave Coming?",
-      "show_name": "The Daily",
-      "network": "NY Times",
-      "category": "Politics",
-      "published_at": "2026-09-16T09:45:00Z",
-      "score": 0,
-      "link": "https://www.nytimes.com/the-daily",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/ba4681d1-d3b1-4741-b3a2-1fec34cafd8b/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=ba4681d1-d3b1-4741-b3a2-1fec34cafd8b&feed=Sl5CSM3S",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-      "description": "At a round-table discussion, Times political journalists talk about what we can expect in November.",
-      "description_full": "At a round-table discussion, Times political journalists talk about what we can expect in November."
-    },
-    {
       "id": "4040e2b06ac59c1d",
       "title": "What happened before the big bang?",
       "show_name": "Unexplainable",
@@ -1307,51 +1367,6 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
       "description": "It has been 10 years since former 49ers quarterback Colin Kaepernick took a knee during the national anthem, in protest of police brutality against Black people. Once the season ended, Kaepernick...",
       "description_full": "It has been 10 years since former 49ers quarterback Colin Kaepernick took a knee during the national anthem, in protest of police brutality against Black people. Once the season ended, Kaepernick never played in the NFL again. \"The NFL tried to send a very clear message that if you protest police killing Black folks, if you fight for a better society and better community, we're going to try to take your career from you,\" he tells Tonya Mosley. \"I don't accept that that is going to be the end outcome of this, and will do everything I can to make sure that I change that narrative.\" Kaepernick has written a memoir called The Perilous Fight. It begins long before the anthem, with his experience as a Black boy adopted by white parents, learning to keep early experiences of racism to himself. He explains why, after all this time, he still wants to play in the NFL, and why he would keep his kids from playing the game.Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "dae891ffe372bbd0",
-      "title": "Why Conversations Go Wrong",
-      "show_name": "Hidden Brain",
-      "network": "Hidden Brain Media",
-      "category": "Science",
-      "published_at": "2026-09-14T15:14:37Z",
-      "score": 0,
-      "link": "https://www.hiddenbrain.org/",
-      "audio_url": "https://mgln.ai/e/2/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/df179a36-a022-41e3-bf7c-b7a4efc6f51e/episodes/53d9afa5-baa9-4b3b-a8b7-5610a39ff729/audio/128/default.mp3?aid=rss_feed&awCollectionId=df179a36-a022-41e3-bf7c-b7a4efc6f51e&awEpisodeId=53d9afa5-baa9-4b3b-a8b7-5610a39ff729&feed=kwWc0lhf",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/5982e1b7-239c-4b89-81f9-49df1f33fdae/dd71b17c-82bb-441d-a979-e16975aebc1c/3000x3000/hbtilewshankarfinal_rgbsimplecast.jpg?aid=rss_feed",
-      "description": "Do you ever struggle to communicate with your mom? Or feel like you and your spouse sometimes speak different languages? This week, we revisit a favorite conversation with linguist Deborah Tannen....",
-      "description_full": "Do you ever struggle to communicate with your mom? Or feel like you and your spouse sometimes speak different languages? This week, we revisit a favorite conversation with linguist Deborah Tannen. She shows how our conversational styles can cause unintended conflicts, and what we can do to communicate more effectively with the people in our lives. Then, in an all-new installment of \"Your Questions Answered,\" Emma Levine responds to your questions and stories about the psychology of lying."
-    },
-    {
-      "id": "8dcf9bbbf057b7b9",
-      "title": "Black bears are moving into the neighborhood. How do we coexist?",
-      "show_name": "Science Friday",
-      "network": "WNYC Studios",
-      "category": "Science",
-      "published_at": "2026-09-14T10:00:00Z",
-      "score": 0,
-      "link": "https://www.wnycstudios.org/podcasts/science-friday",
-      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/ac8e2039-dfef-4938-b66a-c2f58f4b7599/episodes/8dae40fe-3f67-49d3-be7e-c245fd51baa3/audio/128/default.mp3?aid=rss_feed&awCollectionId=ac8e2039-dfef-4938-b66a-c2f58f4b7599&awEpisodeId=8dae40fe-3f67-49d3-be7e-c245fd51baa3&feed=h18ZIZD_",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/88d16dd9-fbeb-4b94-acd3-e9871b5060cc/3000x3000/sciencefriday-showsquare-2025-3000x3000.jpg?aid=rss_feed",
-      "description": "As black bears return to their historic ranges across the U.S., human encounters are increasing. How can bears and people live in harmony?",
-      "description_full": "As black bears return to their historic ranges across the U.S., human encounters are increasing. How can bears and people live in harmony?"
-    },
-    {
-      "id": "b37673cb4f0aed65",
-      "title": "What's the oldest story ever told?",
-      "show_name": "Unexplainable",
-      "network": "Vox",
-      "category": "Science",
-      "published_at": "2026-09-14T08:00:00Z",
-      "score": 0,
-      "link": "https://www.vox.com/unexplainable",
-      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/257/traffic.megaphone.fm/VMP4735783535.mp3",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://megaphone.imgix.net/podcasts/bf04a680-6afe-11eb-a86a-3f07259749a3/image/d510ec950f9a501094c11003381fcedc.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "description": "An astrophysicist uses the motion of the stars to argue that a single story has been told for 100,000 years. A cognitive anthropologist has questions.\n\nGuests: Ray Norris, astrophysicist; Manvir...",
-      "description_full": "An astrophysicist uses the motion of the stars to argue that a single story has been told for 100,000 years. A cognitive anthropologist has questions.\n\nGuests: Ray Norris, astrophysicist; Manvir Singh, cognitive anthropologist at the University of California, Davis\n\nFor show transcripts, go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/unxtranscripts⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠For more, go to ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/unexplainable⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠And please email us! ⁠⁠⁠⁠unexplainable@vox.com⁠⁠⁠⁠ We read every email.Support Unexplainable (and get ad-free episodes) by becoming a Vox Member today: ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠vox.com/members\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
     }
   ]
 }
