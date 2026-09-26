@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T01:21:00.689193Z",
+  "generated_at": "2026-09-26T14:54:20.191217Z",
   "lookback_days": 7,
-  "episode_count": 89,
+  "episode_count": 88,
   "episodes": [
     {
       "id": "f82884719f7fba5d",
@@ -349,6 +349,21 @@
       "description_full": "(Note: A version of this episode originally ran in 2024.)$40,000,000,000,000. Four commas. Thirteen zeroes. It’s an eye-popping, almost infinite-sounding pile of money. And every time the debt passes a big round number, almost everyone asks the same question: How much debt is too much?It’s maybe the most important question in macroeconomics. It’s also surprisingly hard to answer. When two economists tried to answer it back in 2010, it ignited a research slugfest that lasted a decade. We did a show on this question in 2024, outlining everything we know and don’t know about when the national debt becomes a problem. But a lot has changed. Interest rates have risen and stayed high. Spending has steamrolled ahead. Doves have become hawks. So on today’s show, we update our 2024 episode to revisit the age-old question: Is our debt finally too much? Read Planet Money: Our book: Planet Money: A Guide to the Economic Forces That Shape Your Life Our weekly longform Planet Money newsletterOur weekly Indicator round-up newsletterFollow: InstagramTikTokYouTubeFacebookSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.Our original episode was produced by Willa Rubin and edited by Molly Messick. This update was reported and produced by Vito Emanuel. It was fact checked by Sierra Juarez. It was engineered by Kwesi Lee. And it was edited by Alex Goldmark, Planet Money’s executive producer. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
+      "id": "619dc0be0a9d017b",
+      "title": "Best Of: Rhiannon Giddens / Investigating Diddy’s Rise & Fall",
+      "show_name": "Fresh Air",
+      "network": "NPR",
+      "category": "Art",
+      "published_at": "2026-09-26T09:00:00Z",
+      "score": 3,
+      "link": "https://www.npr.org/2026/09/26/nx-s1-5981257/best-of-rhiannon-giddens-investigating-diddys-rise-fall",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/1e44039f-07d3-4b60-9fb5-a01770e019f0/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=1e44039f-07d3-4b60-9fb5-a01770e019f0&feed=jBsBZBHh&t=podcast&e=nx-s1-5981257&p=381444908&d=2878&size=46064623",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
+      "description": "Rhiannon Giddens doesn’t usually make pop music, but she wrote and played the banjo riff on Beyoncé’s country single, “Texas Hold ‘Em.” She comes from the Black string band tradition, is the artistic...",
+      "description_full": "Rhiannon Giddens doesn’t usually make pop music, but she wrote and played the banjo riff on Beyoncé’s country single, “Texas Hold ‘Em.” She comes from the Black string band tradition, is the artistic director of the Silk Road Ensemble, and studied opera in college. Giddens spoke with Terry Gross about channeling her ancestors through her instrument. Also, Rolling Stone investigative reporter Cheyenne Roundtree talks with Tonya Mosley about her new book, Bad Boy for Life. It tells the story of Sean Combs across the names he gave himself: Puffy, Puff Daddy, P. Diddy, Love, and the systems that allowed his alleged abuse to go on for decades. Film critic Justin Chang reviews the new film Your Mother Your Mother Your Mother, starring Mahershala Ali.Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
       "id": "0581047b0a278f50",
       "title": "Middlegarchs are the new Oligarchs",
       "show_name": "Planet Money",
@@ -514,19 +529,19 @@
       "description_full": "A self-described \"folkie to the bone,\" Giddens talks with Terry Gross about channeling her ancestors through her instrument, playing on Beyoncé’s country single “Texas Hold ‘Em,” and a connection between Irish folk music and Dolly Parton. Giddens also sings and plays banjo and fiddle throughout the interview. Her latest album, Hope Is the Thing with Feathers, takes its name from an Emily Dickinson poem.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "351b67090eb8726d",
-      "title": "Avoiding the A.I. Apocalypse",
+      "id": "765e844b45bd5de7",
+      "title": "Fabulous, Beautiful Debt",
       "show_name": "Slate Money",
       "network": "Slate",
       "category": "Finance/Economics",
-      "published_at": "2026-09-19T07:00:00Z",
-      "score": 3,
-      "link": "https://shows.acast.com/slate-money/episodes/6aad8e60f0112d8f45895152",
-      "audio_url": "https://sphinx.acast.com/p/open/s/695ead68a32e86d775858194/e/6aad8e60f0112d8f45895152/media.mp3",
+      "published_at": "2026-09-26T07:00:00Z",
+      "score": 2,
+      "link": "https://shows.acast.com/slate-money/episodes/6ab6df43bd67ce4b5361e00b",
+      "audio_url": "https://sphinx.acast.com/p/open/s/695ead68a32e86d775858194/e/6ab6df43bd67ce4b5361e00b/media.mp3",
       "audio_type": "audio/mpeg",
       "show_image_url": "https://assets.pippa.io/shows/695ead68a32e86d775858194/show-cover.jpg",
-      "description": "This week: Everyone is talking about A.I. safety as OpenAI shares more alarming security breaches. Felix Salmon, Elizabeth Spiers, and Emily Peck examine the complicated reality of trying to slow...",
-      "description_full": "This week: Everyone is talking about A.I. safety as OpenAI shares more alarming security breaches. Felix Salmon, Elizabeth Spiers, and Emily Peck examine the complicated reality of trying to slow down the A.I. frontier. Then, the hosts discuss Fed chair Kevin Warsh’s unexpected vote to raise rates—in defiance of Donald Trump. And finally, with the SEC opening the door to tokenized equities, they explain what it means for stocks to be traded like crypto—and why AMC is beefing with Robinhood over it. In the Slate Plus episode: Toilets, Toilets EverywhereMentioned in this episode: “Inside the suddenly explosive world of AI safety,” from The Verge.Want to hear that discussion and hear more Slate Money? Join Slate Plus to unlock weekly bonus episodes. Plus, you’ll access ad-free listening across all your favorite Slate podcasts. You can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify. Or, visit slate.com/moneyplus to get access wherever you listen. Podcast production by Jessamine Molli. Hosted on Acast. See acast.com/privacy for more information."
+      "description": "This week: The bond market continues to churn with yields spiking globally. Felix Salmon, Elizabeth Spiers, and Emily Peck are joined by Financial Times journalist Robin Wigglesworth, whose new book,...",
+      "description_full": "This week: The bond market continues to churn with yields spiking globally. Felix Salmon, Elizabeth Spiers, and Emily Peck are joined by Financial Times journalist Robin Wigglesworth, whose new book, A Fabulous Debt: The Epic Story of How Bonds Built the Modern World, feels particularly relevant right now. Robin recounts the research he did for the book and explains why the history of bonds is more interesting than you might think. They also discuss the state of theTreasury market now and, naturally, what makes debt beautiful.In the Slate Plus episode: The $60 Loaf of BreadWant to hear that discussion and hear more Slate Money? Join Slate Plus to unlock weekly bonus episodes. Plus, you’ll access ad-free listening across all your favorite Slate podcasts. You can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify. Or, visit slate.com/moneyplus to get access wherever you listen. Podcast production by Jessamine Molli. Hosted on Acast. See acast.com/privacy for more information."
     },
     {
       "id": "45332f7cbee4a400",
@@ -994,6 +1009,21 @@
       "description_full": "Fox News host Jessica Tarlov, the lone liberal voice on \"The Five,\" stops by the studio to talk to Tommy about her new book \"I Disagree: Winning Arguments without Losing Friends.\" Tarlov offers Tommy a behind the scenes look into the making of Fox's most combative show and her relationships off-screen with her conservative colleagues. She also talks about how she handles criticism from Fox News's most infamous viewer, what it's like watching her former colleagues serve in the President's cabinet, and why she thinks Democrats need to spend more time on Fox News in 2028.Hate listening to ads? Become a Friends of the Pod subscriber for ad-free episodes of Pod Save America, Pod Save the World, Lovett or Leave It, Runaway Country, Offline with Jon Favreau, and more—plus exclusive content, including bonus episodes of Pod Save America. Subscribe now at crooked.com/friends, on Apple Podcasts, or through the Pod Save America YouTube channel.You can request a transcript by emailing transcripts@crooked.com. Include the podcast name, episode title, and air date. Please allow 48 hours for delivery."
     },
     {
+      "id": "9bfe5fe307cef31d",
+      "title": "Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.",
+      "show_name": "The Daily",
+      "network": "NY Times",
+      "category": "Politics",
+      "published_at": "2026-09-26T10:00:00Z",
+      "score": 0,
+      "link": "https://www.nytimes.com/the-daily",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/3c0a5121-a722-4a1e-9b11-b78033a37931/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=3c0a5121-a722-4a1e-9b11-b78033a37931&feed=Sl5CSM3S",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+      "description": "The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.",
+      "description_full": "The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself."
+    },
+    {
       "id": "f5f41ad9f426d13c",
       "title": "TEASER: Members Only Mailbag September 2026",
       "show_name": "Judge John Hodgman",
@@ -1292,51 +1322,6 @@
       "show_image_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
       "description": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control...",
       "description_full": "Fears of out-of-control A.I. have reached a boil over the last few weeks, and several industry executives have called for a coordinated slowdown of A.I. development. But if our goal is to control A.I. — and that should be our goal — slowing down isn’t enough. We need to stop the labs from doing something they’re already on the cusp of doing: recursive self-improvement, or handing over the training of A.I. models to A.I."
-    },
-    {
-      "id": "e7d7e7f6c0567fa8",
-      "title": "Aaron Sorkin Goes Off Script",
-      "show_name": "The Daily",
-      "network": "NY Times",
-      "category": "Politics",
-      "published_at": "2026-09-19T10:00:00Z",
-      "score": 0,
-      "link": "https://www.nytimes.com/the-daily",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c7cf5b73-080f-4159-a6c9-e0bcfa4c5a38&feed=Sl5CSM3S",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-      "description": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance.",
-      "description_full": "The Oscar-winning writer returns to Facebook with “The Social Reckoning”— and surprises us with the revelation of why he is so drawn to uplift and romance."
-    },
-    {
-      "id": "c6473fdfb5a34dab",
-      "title": "Best Of: Colin Kaepernick / Danielle Brooks",
-      "show_name": "Fresh Air",
-      "network": "NPR",
-      "category": "Art",
-      "published_at": "2026-09-19T09:00:00Z",
-      "score": 0,
-      "link": "https://www.npr.org/2026/09/19/nx-s1-5974195/best-of-colin-kaepernick-danielle-brooks",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/846bd11c-513e-4665-a905-0ad755ce5413/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=846bd11c-513e-4665-a905-0ad755ce5413&feed=jBsBZBHh&t=podcast&e=nx-s1-5974195&p=381444908&d=2947&size=47168034",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
-      "description": "10 years ago, former 49ers NFL quarterback Colin Kaepernick took a knee during the national anthem to protest police violence against Black people. After the season ended, he never played in the NFL...",
-      "description_full": "10 years ago, former 49ers NFL quarterback Colin Kaepernick took a knee during the national anthem to protest police violence against Black people. After the season ended, he never played in the NFL again. He spoke with Tonya Mosley about his childhood, football career, and activism. His memoir is his The Perilous Fight.Actor Danielle Brooks first became known as Taystee on Orange Is the New Black. She spoke with Terry Gross about that series, growing up singing in her parents’ church, and landing the role of Sofia in \"The Color Purple,\" both on Broadway and the film adaptation. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "ed5dba45cf3d5d89",
-      "title": "A Goldman M&A Banker Helped Bring the Olympics to Los Angeles",
-      "show_name": "Odd Lots",
-      "network": "Bloomberg",
-      "category": "Finance/Economics",
-      "published_at": "2026-09-19T08:00:00Z",
-      "score": 0,
-      "link": "https://omny.fm/shows/odd-lots/a-goldman-m-a-banker-helped-bring-the-olympics-to-los-angeles",
-      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/3c42dc4e-ca08-46cf-b2c6-b4c90112084e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "description": "We're in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles come and go over his...",
-      "description_full": "We're in an era of megadeals, with Goldman Sachs reporting a record year for big deal volumes as companies scramble to compete with AI. Gene Sykes has seen multiple deal cycles come and go over his multi-decade career. The co-chair of global mergers and acquisitions has worked on famous transactions like Comcast's purchase of Universal and Disney's buyout of Pixar. In addition to being \"the most-influential M&A banker you've never heard of,\" as New York magazine has put it, he has also spearheaded Los Angeles's successful bid to bring the Olympic Games to the city in 2028. In this conversation, recorded live at the Future Proof Festival in Huntington Beach, California, we discuss how a city pays for a big event like the Olympics, and parallels between the early 2000s TMT environment and now. Read more:Port of LA Foiled Around 120 Million Cyberattacks Last MonthGoldman’s Snider Says Fears of US Earnings Bubble Are Misplaced Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
     }
   ]
 }
