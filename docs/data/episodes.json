@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T16:41:59.940834Z",
+  "generated_at": "2026-10-01T01:55:32.719967Z",
   "lookback_days": 7,
   "episode_count": 88,
   "episodes": [
@@ -77,6 +77,21 @@
       "show_image_url": "https://media.npr.org/assets/img/2022/09/23/popculture-happyhour_tile_npr-network-01_sq-8f7dd7b8b06bf1f4d5c063f3752b7b60979624b4.jpg?s=1400&c=66&f=jpg",
       "description": "Jay-Z has been everywhere lately. It’s been 30 years since his acclaimed debut Reasonable Doubt, and he celebrated with a series of concerts at Yankee Stadium. And now there’s the HBO docuseries,...",
       "description_full": "Jay-Z has been everywhere lately. It’s been 30 years since his acclaimed debut Reasonable Doubt, and he celebrated with a series of concerts at Yankee Stadium. And now there’s the HBO docuseries, JAŸ-Z In 8, in which Jay-Z dissects his catalog with producer Rick Rubin. The series hopes to further cement his legacy as one of the most revered lyricists of our time. But Jay-Z (or JAŸ-Z, as he’s styled it lately.) has always been a polarizing figure, both in his personal life and as a business mogul. So what does this series accomplish?Looking for more episodes about music? Check out these:Ariana Grande stares down the public eye in 'Petal'It's time to talk about how y'all act at music festivalsMost overused songs in moviesConnect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "8459a8a868d7f867",
+      "title": "A trip to one of the last toss-up districts",
+      "show_name": "The NPR Politics Podcast",
+      "network": "NPR",
+      "category": "Politics",
+      "published_at": "2026-09-30T20:05:45Z",
+      "score": 7,
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985793/a-trip-to-one-of-the-last-toss-up-districts",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/4dc86090-da7c-4c28-ae7e-75a9bc9127df/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=4dc86090-da7c-4c28-ae7e-75a9bc9127df&feed=iDPaKWvZ&t=podcast&e=nx-s1-5985793&p=510310&d=1121&size=17941777",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
+      "description": "Pennsylvania's Lehigh Valley has one of this election cycle's last remaining toss-up districts. Latino voters make up a majority of voters in Allentown, and both Democrats & Republicans are trying...",
+      "description_full": "Pennsylvania's Lehigh Valley has one of this election cycle's last remaining toss-up districts. Latino voters make up a majority of voters in Allentown, and both Democrats & Republicans are trying hard to make inroads. We talk to voters about what they're weighing before voting, and about the messages each party is sending in the area.This episode: voting correspondent Ashley Lopez, congressional correspondent Barbara Sprunt, and politics reporter Stephen FowlerThis podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "254e6483d1a9adf5",
@@ -214,21 +229,6 @@
       "description_full": "President Trump and his money managers made more stock trades since his second term started than all members of Congress combined. The White House says there is no conflict of interest. Today on the show, we look at three companies he’s traded in that raise ethical flags because of their relationship with the federal government. Fact checking by Sierra Juarez.Your Next Listen — Did Trump enable insider trading?Connect with The Indicator — Sign up for The Indicator’s weekly newsletter! — Buy the Planet Money book — Find our socials, YouTube and more! — For sponsor-free episodes, subscribe to NPR+ Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "ef2fd99a753778fd",
-      "title": "Trump vs. the media",
-      "show_name": "The NPR Politics Podcast",
-      "network": "NPR",
-      "category": "Politics",
-      "published_at": "2026-09-23T20:31:01Z",
-      "score": 6,
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977679/trump-vs-the-media",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/65defd64-cb51-418a-91dc-20a5345834db/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=65defd64-cb51-418a-91dc-20a5345834db&feed=iDPaKWvZ&t=podcast&e=nx-s1-5977679&p=510310&d=1144&size=18306239",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
-      "description": "Angered by what he perceived as negative coverage, President Trump barred journalists from CNN, MS NOW and Politico from the White House grounds. Those outlets have since sued the government,...",
-      "description_full": "Angered by what he perceived as negative coverage, President Trump barred journalists from CNN, MS NOW and Politico from the White House grounds. Those outlets have since sued the government, alleging the prohibition violates the First Amendment. Additionally, television networks decided to suspend participation in the system of shared coverage of the White House in a show of solidarity. We explain what's going on.This episode: voting correspondent Miles Parks, senior political correspondent Tamara Keith, and media correspondent David Folkenflik.This podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
       "id": "cf816627262dd832",
       "title": "A Different World",
       "show_name": "Pop Culture Happy Hour",
@@ -304,19 +304,19 @@
       "description_full": "Jeff Probst – host, showrunner and executive producer of ‘Survivor’ – sat down with Joe and Jon ahead of the show’s Sep. 23 Season 51 premiere to discuss the new “Open Era”: A cast of rookies are subject to gameplay elements that can be resurrected from past seasons, or abandoned. He also spoke about evolving from host to showrunner; how the show lives alongside, and sometimes in conversation with, its imitators; and finding the hero’s journey within both the show’s competitors and himself."
     },
     {
-      "id": "a57c3cdacda2104f",
-      "title": "Sarah Matthews and Jason Horowitz: Trump Propaganda and Italian Fascism",
+      "id": "09496025b5c5c97c",
+      "title": "Maria Comella and The Trio: Holy Schmitt, That Was Bad",
       "show_name": "The Bulwark Daily",
       "network": "The Bulwark",
       "category": "Politics",
-      "published_at": "2026-09-23T20:06:11Z",
-      "score": 5,
-      "link": "https://audioboom.com/posts/8956262",
-      "audio_url": "https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8956262.mp3?modified=1790194113&sid=5114286&source=rss",
+      "published_at": "2026-09-30T20:03:41Z",
+      "score": 4,
+      "link": "https://audioboom.com/posts/8959075",
+      "audio_url": "https://arttrk.com/p/ABMA5/clrtpod.com/m/pscrb.fm/rss/p/prfx.byspotify.com/e/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8959075.mp3?modified=1790798743&sid=5114286&source=rss",
       "audio_type": "audio/mpeg",
       "show_image_url": "https://audioboom.com/i/43772354.jpg",
-      "description": "The cozy White House Correspondents' Dinner, where Trump joked around with reporters, was only in July. But now he's ripping away press credentials and setting up state-run media. Sarah scolds the...",
-      "description_full": "The cozy White House Correspondents' Dinner, where Trump joked around with reporters, was only in July. But now he's ripping away press credentials and setting up state-run media. Sarah scolds the WHCA for bending the knee to Trump to begin with. And recent Italian history even foreshadowed the Trump era. Jason, in his new book, explains how Silvio Berlusconi learned how to become the central character in the media. The more he was talked about, the more powerful he became—and the more his opposition became trapped. Plus: a case study of Giorgia Meloni, her love of the hobbits, her opposition to Trump, and the rise of far-right populism in Italy. Also, a little hopium for Texas turning blue. And today's Republicans will always choose power over the interests of women. Sarah Matthews and The New York Times' Jason Horowitz join Tim Miller.show notes:\nBrendan on watching six straight hours of Trump TV\nSarah on MAGA world trying to save Max Miller\nJason's new book, \"The Italian Job\"\nCatch Tim's TNL rant on George W. Bush \nNicole Bassett's Oregeon state senate campaign site\nBJ's Lounge in NOLA\nGo to https://zbiotics.com/thebulwark and use THEBULWARK at checkout for 15% off any first time orders of ZBiotics probiotics."
+      "description": "The Trio comes together on the daily pod for the first time to give a little taste of the MAGA-land news Sam, Will, and Tim are covering for The Bulwark. The latest developments include speculation...",
+      "description_full": "The Trio comes together on the daily pod for the first time to give a little taste of the MAGA-land news Sam, Will, and Tim are covering for The Bulwark. The latest developments include speculation that Candace Owens may be a lesbian and that Florida gubernatorial candidate Byron Donalds pretended he was Jamaican. He may also have very poor judgment on financial matters. But first, Maria talks with Tim about Eric Schmitt and what may be the biggest self-own in the history of the Senate. Plus: Most of the media is still doing fake balance in favor of Trump, the pivotal scandal that knocked Chris Christie out as the 2016 frontrunner—and may have opened the door to you-know-who—and Tim shares details about a kiss he wanted but never got. Ex-Christie aide Maria Comella and Trio members Sam Stein and Will Sommer join Tim Miller.show notes:\nTim’s updated list of additional Democratic candidates to support in “The Triad”\nWill’s “False Flag” newsletter\n\nThe Trio on Youtube or on Substack\n\nThe campaign site for Montana’s Sam Forstag\nThe Bulwark’s campaign to help the Haitian community of Springfield\n\nThe Bulwark store"
     },
     {
       "id": "4829c6d12bc00c7c",
@@ -1024,6 +1024,21 @@
       "description_full": "The Democratic Socialists of America (DSA) is having a big moment. Its candidates and its membership are both surging. Before Zohran Mamdani and AOC, there was its founder, Michael Harrington, a.k.a 'the man who discovered poverty.'  In this episode, we dig into Harrington’s evolution from devout Catholic to revolutionary socialist to Democratic party loyalist, and ask: did his push to compromise delay the dream or pave the way for it? Guests:Maurice Isserman, Professor of History at Hamilton Collegeand author of The Other American: The Life of Michael Harrington.Doug Greene, author of A Failure of Vision: Michael Harrington and the Limits of Democratic Socialism.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
+      "id": "8be1618e58be78e0",
+      "title": "New drones, deadlier attacks: Dystopian reality in Ukraine",
+      "show_name": "Fresh Air",
+      "network": "NPR",
+      "category": "Art",
+      "published_at": "2026-09-30T17:22:39Z",
+      "score": 0,
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5985079/new-drones-deadlier-attacks-dystopian-reality-in-ukraine",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/43ef4592-bf9e-4dc5-8667-8295a37e842b/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=43ef4592-bf9e-4dc5-8667-8295a37e842b&feed=jBsBZBHh&t=podcast&e=nx-s1-5985079&p=381444908&d=2750&size=44006592",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
+      "description": "Zanny Minton Beddoes, editor-in-chief of The Economist, is just back from her fourth visit to Ukraine. She says Russia has ramped up production of missiles and deadly drones, while Ukraine is...",
+      "description_full": "Zanny Minton Beddoes, editor-in-chief of The Economist, is just back from her fourth visit to Ukraine. She says Russia has ramped up production of missiles and deadly drones, while Ukraine is desperately short of interceptors to resist the onslaught. “[Kyiv] has been under really extraordinary bombardment from the Russians, and they are basically trying to make life unlivable in a city of several million people,” she tells Dave Davies. They also discuss the state of relations between Europe, Canada and the U.S. in the Trump era.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
       "id": "e20f559630665999",
       "title": "Admiss-kibble Evidence",
       "show_name": "Judge John Hodgman",
@@ -1124,7 +1139,7 @@
       "link": "https://feeds.megaphone.fm/the-rewatchables",
       "audio_url": "https://traffic.megaphone.fm/GLT2505469909.mp3",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://megaphone.imgix.net/podcasts/2f4ea2e6-7830-11ea-b53f-5b033f3a61e7/image/c4d5762947d62840001f6de1a18fe280.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "show_image_url": "https://megaphone.imgix.net/podcasts/2f4ea2e6-7830-11ea-b53f-5b033f3a61e7/image/7771f77f8f2f5071f09ba8b0a082a2e2.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "description": "Bill and Juliet just want to be thirty, flirty, and thriving after revisiting the 2004 classic ‘13 Going on 30’ starring Jennifer Garner, Mark Ruffalo, and Judy Greer.\n\n\n\nProducers: Craig Horlbeck,...",
       "description_full": "Bill and Juliet just want to be thirty, flirty, and thriving after revisiting the 2004 classic ‘13 Going on 30’ starring Jennifer Garner, Mark Ruffalo, and Judy Greer.\n\n\n\nProducers: Craig Horlbeck, Chia Hao Tat, Eduardo Ocampo, and Matt Pevic\n\n\n\n2026 Mazda CX-50. Designed for Safety. MazdaUSA.com\n\n\n\nFind Angry Orchard in a store near you, or visit angryorchard.com.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
     },
@@ -1307,21 +1322,6 @@
       "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
       "description": "Social media is really strange these days: Increasingly, our feeds are starting to look uncanny, as AI slop proliferates all over the Internet. And for the professionals who are tasked with making...",
       "description_full": "Social media is really strange these days: Increasingly, our feeds are starting to look uncanny, as AI slop proliferates all over the Internet. And for the professionals who are tasked with making content, whether it is social media managers or creators, it has been a head-spinning time of change. In this conversation, recorded at the Vermont in Hollywood, we get a primer on social media's AI era with two veteran Internet commentators, Rachel Karten (social media consultant and the author of the Link in Bio newsletter) and Taylor Lorenz (founder of User Mag). We discuss why people are afraid to admit that they love some genres of slop, why the AI discourse is evolving so rapidly, and whether our time online is moving away from scrolling feeds to engaging with chatbots. Read more:US Rebukes Australia for Plan to Target Social Media AlgorithmsMeta’s New Muse AI App Tops Charts, Draws Strong Reviews Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
-    },
-    {
-      "id": "21d95e786653d5a2",
-      "title": "Global power, rivalry, and A.I.; a preview of the U.S./China summit",
-      "show_name": "Fresh Air",
-      "network": "NPR",
-      "category": "Art",
-      "published_at": "2026-09-23T17:35:24Z",
-      "score": 0,
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978859/global-power-rivalry-and-a-i-a-preview-of-the-u-s-china-summit",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/368f2606-15f8-4e41-85b1-c09e68aaa896/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=368f2606-15f8-4e41-85b1-c09e68aaa896&feed=jBsBZBHh&t=podcast&e=nx-s1-5978859&p=381444908&d=2780&size=44495186",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
-      "description": "As President Trump and China's President Xi prepare to meet tomorrow, Rush Doshi of the Council on Foreign Relations explains the current state of US-China relations and what to expect from this...",
-      "description_full": "As President Trump and China's President Xi prepare to meet tomorrow, Rush Doshi of the Council on Foreign Relations explains the current state of US-China relations and what to expect from this summit. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     }
   ]
 }
