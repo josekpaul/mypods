@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T01:19:45.412066Z",
+  "generated_at": "2026-10-15T15:30:33.781187Z",
   "lookback_days": 7,
-  "episode_count": 89,
+  "episode_count": 90,
   "episodes": [
     {
       "id": "cef7bf2fc7c3483a",
@@ -274,19 +274,19 @@
       "description_full": "The new series Carrie updates the Stephen King book for the digital age, and plays with what we think we know in some surprising ways. Streaming on Prime Video, it follows a young Carrie who has led a sheltered life with her overbearing mother. But as Carrie enters high school, she has a rough go of it. The signposts are familiar – the showers, the prayer closet, the prom, the pig’s blood – but showrunner Mike Flanagan (The Haunting of Hill House and Midnight Mass) builds out the world around those events.Looking for more TV and movies inspired by Stephen King? Check out these episodes:Glen Powell is ‘The Running Man’ in the latest Stephen King adaptationA new generation is down to clown in ‘IT: Welcome to Derry’‘The Long Walk’ is a long walk to nowhereDance with Tom Hiddleston through 'The Life of Chuck'Connect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "0e3ae22c0a6fa1ac",
-      "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
+      "id": "1c20f9544786bf7b",
+      "title": "Jeff Yan's Plan to Bring the Entire Financial Industry Onto Hyperliquid",
       "show_name": "Odd Lots",
       "network": "Bloomberg",
       "category": "Finance/Economics",
-      "published_at": "2026-10-08T08:00:00Z",
-      "score": 7,
-      "link": "https://omny.fm/shows/odd-lots/what-everyone-gets-wrong-about-the-economic-problems-in-europe",
-      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/201de292-b347-44a2-8ad4-b4dc016defab/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+      "published_at": "2026-10-15T09:00:00Z",
+      "score": 6,
+      "link": "https://omny.fm/shows/odd-lots/jeff-yans-plan-to-bring-the-entire-financial-industry-onto-hyperliquid",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/b143850e-7e8f-4144-8299-b4e30171ca7d/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
       "audio_type": "audio/mpeg",
       "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
-      "description": "In so many conversations, there's a widespread view that Europe is falling behind. Or it's in trouble. It has been two years since the publication of the Draghi report and the problems the report...",
-      "description_full": "In so many conversations, there's a widespread view that Europe is falling behind. Or it's in trouble. It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor. Read more:EU Plans Import Cap on Chinese Hybrid Cars to Protect SectorAlibaba’s Joe Tsai Says Open Source Is Europe’s Best Shot at AI Only Bloomberg - Business News, Stock Markets, Finance, Breaking & World News subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
+      "description": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after...",
+      "description_full": "Traders and market watchers around the world started talking about a crypto platform called Hyperliquid earlier this year, when speculators used markets built on top of it to trade crude oil after war broke out in Iran. What Hyperliquid allowed for was a 24/7 market on the blockchain. Then in August, President Trump said the CFTC was working on bringing “Hyperliquid into the United States in a fully compliant and legal fashion.” Hyperliquid currently operates outside the US, but that hasn't stopped it from growing prodigiously in the last year. Jeff Yan, CEO and co-founder of Hyperliquid Labs, joins us today to explain how exactly the platform works: He walks us through the protocol he and his co-founders built, the ecology of actors and assets that are tied to Hyperliquid (like the platform's cryptocurrency HYPE), how perps are bought and sold on the platform, he explains what a blockchain oracle is, and he discusses what has to happen for Hyperliquid to start operating in the US. Read more:Strategy’s Saylor Sees Bitcoin Moving Back Up Beyond $100,000 A $90 Million Spyware Hack Sparks Review of Crypto Wallet Sales Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
     },
     {
       "id": "73007e6c990683d4",
@@ -332,6 +332,36 @@
       "show_image_url": "https://image.simplecastcdn.com/images/89060b63-e603-4297-b6e8-5a654e50244e/f9713c33-7eca-4512-8d96-7a668e274cb2/3000x3000/image.jpg?aid=rss_feed",
       "description": "Thrills. Chills. Hiding behind your hands. It’s officially SPOOKTOBER month with a huge, fascinating (and I promise, mellow) episode on why humans watch horror, and what’s happening in your brain....",
       "description_full": "Thrills. Chills. Hiding behind your hands. It’s officially SPOOKTOBER month with a huge, fascinating (and I promise, mellow) episode on why humans watch horror, and what’s happening in your brain. Not only do we have the author of “Horror on the Brain: the Neuroscience Behind Science Fiction,” neuroscientist Dr. Austin Lim, but this also features CUTS from other episodes to FLESH it all out. Enjoy the political sociology of zombies vs. vampires, feminist body horror, horror as anti-war art, liminal spaces, the best blood in the business, goosebumps and Goosebumps, evolutionary mismatches, why clowns unsettle you, and if horror is having its moment. (Note: it is.)\n\nAlso, we had to cap this at 2+ hours so if we don’t cover *your* favorite movie or series and you yell at me about it, I will roll my eyes so hard that I will die and then I will haunt you by hiding your car keys."
+    },
+    {
+      "id": "67ce976481dc1b91",
+      "title": "Fiber Maxxing and Poo Maxxing, with Dr. Trisha Pasricha",
+      "show_name": "Science Vs",
+      "network": "Spotify Studios",
+      "category": "Science",
+      "published_at": "2026-10-15T09:00:00Z",
+      "score": 4,
+      "link": "https://feeds.megaphone.fm/sciencevs",
+      "audio_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT4931999956.mp3",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
+      "description": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re...",
+      "description_full": "Have you been puzzled by your poos or felt down about your dumps?? You’re not alone! So many of us are struggling with gut issues, which is why fiber is having a major moment. But even though we’re secretly guzzling psyllium husk, tons of us are too embarrassed to talk about our poo problems. No more! We’re putting an end to the silence on stool with Dr. Trisha Pasricha. She’s a neurogastroenterologist and author of “You’ve Been Pooping All Wrong.” We find out what poo actually IS and how often you should go — plus, we get the dirt on the surprising connection between your brain and your gut, and how it might be the key to understanding diseases like Parkinson’s. \n\nFind our transcript here:  ScienceVs \n\nIn this episode, we cover:\n\nTime stamp and titles for each chapter (first chapter must start at 00:00, minimum 3 chapters)\n\n(00:00) Intro \n\n(02:45) What does it mean to reach “poophoria”??\n\n(04:37) Living in a poo-forward household\n\n(05:54) Stomach lie detector \n\n(11:06) That sinking feeling in your stomach\n\n(13:48) The gut-brain connection\n\n(17:05) Parkinson’s and Alzheimer's\n\n(22:05) Fecal transplants\n\n(26:09) Poo 101\n\n(29:46) Fiber-maxxing and how often you should go \n\n(34:52) Why you shouldn’t linger on the toilet \n\n(43:09) Myths around poo\n\n(49:42) Oddball questions\n\nThis episode was produced by Ekedi Fausther-Keeys and Wendy Zukerman, with help from Rose Rimler, Meryl Horn, and Michelle Dang. We’re edited by Blythe Terrell. Wendy Zukerman is the executive producer. Fact checking by Erica Akiko Howard. Video editing and sound by Bobby Lord. Music written by Bumi Hidaka, Peter Leonard, Emma Munger and Bobby Lord. Thanks to the researchers we spoke to for this episode including Dr. Jessica Biesiekierski, as well as Humdinger Studios in Melbourne, and WGBH Studios in Boston.  \n\nScience Vs is a Spotify Studios Original. Listen for free on Spotify or wherever you get your podcasts. You can also find us on YouTube, TikTok and Instagram.\n\n\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
+    },
+    {
+      "id": "47301166a2cf138b",
+      "title": "The Lowdown",
+      "show_name": "Pop Culture Happy Hour",
+      "network": "NPR",
+      "category": "Entertainment",
+      "published_at": "2026-10-15T07:00:00Z",
+      "score": 4,
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6001536/were-high-up-on-the-lowdown",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510282/npr.simplecastaudio.com/f75261d2-0860-4d61-91c1-a78a2b997ff2/episodes/60f39424-49e4-4a60-b8d1-de535b946ed6/audio/128/default.mp3?awCollectionId=f75261d2-0860-4d61-91c1-a78a2b997ff2&awEpisodeId=60f39424-49e4-4a60-b8d1-de535b946ed6&feed=QGMNw0q1&t=podcast&e=nx-s1-6001536&p=510282&d=1108&size=17743247",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/popculture-happyhour_tile_npr-network-01_sq-8f7dd7b8b06bf1f4d5c063f3752b7b60979624b4.jpg?s=1400&c=66&f=jpg",
+      "description": "The great FX series The Lowdown stars Ethan Hawke as a freelance investigative reporter with a knack for sticking his nose where it doesn't belong and getting that nose punched. He gets drawn into...",
+      "description_full": "The great FX series The Lowdown stars Ethan Hawke as a freelance investigative reporter with a knack for sticking his nose where it doesn't belong and getting that nose punched. He gets drawn into the seedy goings-on of one of Tulsa's most prominent families. Created by Sterlin Harjo (Reservation Dogs), the modern-day Western noir comedy has an excellent ensemble including Kyle MacLachlan, Keith David, Jeanne Tripplehorn and Killer Mike. The Lowdown just returned for a second season, so today we’re revisiting our conversation about the series.If you need more comedies with great casts, check out these episodes: ‘Widow’s Bay’ is an island in the screamLisa Kudrow returns in 'The Comeback,' and we did need to see thatGen Z awkwardly transitions into 'Adults'‘The Fall and Rise of Reggie Dinkins’ is (30) Rock-solidConnect with Pop Culture Happy Hour:Letterboxd / FacebookOur weekly newsletterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "80f4f39858f7286e",
@@ -454,19 +484,19 @@
       "description_full": "Palestinians are challenging the narrative one story at a time.Editor-in-Chief of The Key, Sara Yasin, wants us to rethink what she calls ‘it’s complicated' journalism. As more young people are exposed to the destruction in Gaza -- outside of traditional media outlets -- Sara wanted to provide a space where Palestinians can speak freely about what’s going on around them.Enter: The Key, an online publication that focuses on “analysis, interviews, essays, reviews and reportage about Palestine.” Sara joins the show to get into The Key, what ‘fairness’ looks like for mainstream media in this moment, and how power informs framing. Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "0f542d0d1334864b",
-      "title": "Collagen Peptides: Should You Take Them?",
-      "show_name": "Science Vs",
-      "network": "Spotify Studios",
-      "category": "Science",
-      "published_at": "2026-10-08T09:00:00Z",
-      "score": 3,
-      "link": "https://feeds.megaphone.fm/sciencevs",
-      "audio_url": "https://chrt.fm/track/15E3G4/traffic.megaphone.fm/GLT7411697549.mp3",
+      "id": "12a0d130becdfb5f",
+      "title": "How did political campaigns get so expensive?",
+      "show_name": "The Indicator from Planet Money",
+      "network": "NPR",
+      "category": "Finance/Economics",
+      "published_at": "2026-10-15T07:00:00Z",
+      "score": 2,
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6002938/how-did-political-campaigns-get-so-expensive",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/3c0f1911-9fff-46e3-bfed-1fcc0682e7e9/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=3c0f1911-9fff-46e3-bfed-1fcc0682e7e9&feed=IFy3imsg&t=podcast&e=nx-s1-6002938&p=510325&d=492&size=7876109",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://megaphone.imgix.net/podcasts/f521b120-2c30-11e6-b5f3-63ee984ee1a4/image/e7470287efbfa0aff068175bb6c31805.jpg?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
-      "description": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of...",
-      "description_full": "Collagen peptides!! Can they make you look younger and be healthier? It feels like everyone wants to be bursting with collagen, and apparently the way to do it is by scooping up that white powder of collagen peptides and guzzling it down. Do that, and — according to the wellfluencers — not only will your skin be as bouncy as a baby's bottom, but you'll also be stronger and you'll heal from injuries faster. But of course, not everyone is on the collagen train. There are the collagen haters, who say that eating collagen is a load of baloney. So who's right? To find out, we talk to dietetics Professor Clare Collins, dermatologist Dr. Natalia Spierings, exercise physiologists Professor Luc van Loon and Professor Keith Baar, neutromuscular physiologist Dr. Robert Erskine, as well as sports performance consultant Dr. Dana Lis. \n\n \n\nFind our transcript here: https://tinyurl.com/ScienceVsCollagen\n\nIn this episode, we cover:\n\n(00:00) Collagen peptides are EVERYWHERE\n\n(02:52) Why is collagen important?\n\n(05:25) What are collagen \"peptides\"?\n\n(05:54) Do collagen peptides in creams or injections work?\n\n(06:40) Can eating collagen improve your skin?\n\n(12:35) What happens to collagen after you eat it?\n\n(18:45) How to build more collagen\n\n(24:56) Can eating collagen improve sports performance?\n\n(28:31) Should you take collagen supplements?(31:47) What are the risks of collagen peptides?\n\nThis episode was produced by Wendy Zukerman, with help from Rose Rimler, Ekedi Fausther-Keeys, Meryl Horn and Michelle Dang. We’re edited by Blythe Terrell. Fact checking by Marlowe Starling. Additional research from Isabel Gil. Video editing and sound mix by Bobby Lord. Music written by Bumi Hidaka, Peter Leonard, Emma Munger and Bobby Lord. Thanks to Humdinger Studios in Melbourne and Wolff Island Studios in New York City. Thanks to the researchers we spoke to for this episode, plus a big thanks to Joseph Lavelle Wilson and the Zukerman family.\n\nScience Vs is a Spotify Studios Original. Listen for free on Spotify or wherever you get your podcasts. You can also find us on YouTube, TikTok and Instagram.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices"
+      "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
+      "description": "The 2026 midterm elections are fast approaching, and it’s gearing up to be the most expensive election in American history. So how did we get here, where every election feels more expensive than the...",
+      "description_full": "The 2026 midterm elections are fast approaching, and it’s gearing up to be the most expensive election in American history. So how did we get here, where every election feels more expensive than the last? Today on the show, we’re exploring what’s causing the flood of money into our politics. Fact checking by Sierra Juarez.Your Next Listen –Bad economics, smart politics –Over 2,000 episodes in our archive on the NPR AppConnect with The Indicator from Planet Money–The Indicator newsletter — a weekly roundup of news, ideas and staff picks. –Instagram, TikTok and YouTube –Find the Planet Money book –Find the Planet Money game, Sell Me A Sasquatch, and other merch at the NPR Shop!Support public media by subscribing to NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "6c87b0f55ae6d7e6",
@@ -619,19 +649,49 @@
       "description_full": "Zombies have roots most fans have never heard of. In Haitian Vodou, being zombified meant being enslaved even in death. B.A. Parker talks to Maya Annik Bedward, director of the new documentary Black Zombie, about how a spiritual metaphor for slavery was repackaged by Hollywood and sold back to the world, all while Haitian culture keeps getting cast as something to fear.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "2c8393e5c7e368ad",
-      "title": "The chilling effect of ICE in hospitals",
-      "show_name": "The Indicator from Planet Money",
-      "network": "NPR",
-      "category": "Finance/Economics",
-      "published_at": "2026-10-08T07:00:00Z",
-      "score": 2,
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5993893/the-chilling-effect-of-ice-in-hospitals",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510325/npr.simplecastaudio.com/0a4e8d3b-fe23-4948-9e39-20fcf16f9331/episodes/b6f9b5da-beb5-4a54-bf6d-2a0730b17b8a/audio/128/default.mp3?awCollectionId=0a4e8d3b-fe23-4948-9e39-20fcf16f9331&awEpisodeId=b6f9b5da-beb5-4a54-bf6d-2a0730b17b8a&feed=IFy3imsg&t=podcast&e=nx-s1-5993893&p=510325&d=553&size=8848700",
+      "id": "62363758a16f48d4",
+      "title": "The Republican Strategy to Salvage the Midterms",
+      "show_name": "The Daily",
+      "network": "NY Times",
+      "category": "Politics",
+      "published_at": "2026-10-15T09:52:16Z",
+      "score": 1,
+      "link": "https://www.nytimes.com/the-daily",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/c5e2bb17-fc5a-40cd-a694-d27ad3222fbe/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=c5e2bb17-fc5a-40cd-a694-d27ad3222fbe&feed=Sl5CSM3S",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
-      "description": "Federal immigration enforcement arrests reached record highs this past summer, and under the second Trump administration, immigration agents can now more easily access so-called sensitive areas,...",
-      "description_full": "Federal immigration enforcement arrests reached record highs this past summer, and under the second Trump administration, immigration agents can now more easily access so-called sensitive areas, including hospitals. Today on the show: how both patients and healthcare workers are bearing the physical and economic costs of these deportation campaigns. Featuring Dr. William D. Lopez, author of Raiding the Heartland: an American Story of Deportation and Resistance.Fact checking by Sierra Juarez.Your Next Listen  How ICE arrests are creating 'economies of fear'Connect with The Indicator from Planet MoneyThe Indicator newsletter - a weekly roundup of news, ideas and staff picks.Buy the Planet Money book InstagramTikTokYouTubeFor sponsor-free episodes, subscribe to NPR+ Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+      "description": "The right wing is scrambling for wins in the elections as Democrats lead in the polls.",
+      "description_full": "The right wing is scrambling for wins in the elections as Democrats lead in the polls."
+    },
+    {
+      "id": "8df1629a0b6c5a49",
+      "title": "What's at stake if we can't regrow our forests",
+      "show_name": "Short Wave",
+      "network": "NPR",
+      "category": "Science",
+      "published_at": "2026-10-15T07:00:00Z",
+      "score": 1,
+      "link": "https://www.npr.org/2026/10/15/nx-s1-5983821/reforestation-seed-bombing-drones-trees",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510351/npr.simplecastaudio.com/72da6803-9aa4-4e2e-a973-3bc436f0e9fa/episodes/336a9530-e802-4e39-a713-f6181cd4d6a0/audio/128/default.mp3?awCollectionId=72da6803-9aa4-4e2e-a973-3bc436f0e9fa&awEpisodeId=336a9530-e802-4e39-a713-f6181cd4d6a0&feed=F0qJcgXZ&t=podcast&e=nx-s1-5983821&p=510351&d=815&size=13048355",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/short-wave_tile_npr-network-01_sq-c268cdb6be92867b01c6ef7e65aed8d605525779.jpg?s=1400&c=66&f=jpg",
+      "description": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been...",
+      "description_full": "In 2022, parachutist Luigi Cani dropped 100 million seeds over the Amazon rainforest while skydiving. He did it to raise awareness about deforestation and help regrow the forest. But there has been little scientific follow up to see whether it worked. So, today, we talk to restoration ecologist Pedro Brancalion about the surprising complexity involved in regrowing a forest, and when dropping seeds from the sky – by people or by drones – could work.If you liked this episode, check out our others on building microforests in cities and scientists’ creative idea to save a keystone tree species that grows very slowly.Interested in more tree science? Email us your question at shortwave@npr.org.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "f1576ccff6ef52ed",
+      "title": "Is the death penalty cruel and unusual?",
+      "show_name": "Throughline",
+      "network": "NPR",
+      "category": "Science",
+      "published_at": "2026-10-15T05:05:02Z",
+      "score": 1,
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6001602/is-the-death-penalty-cruel-and-unusual",
+      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/b719183b-fe9d-493c-aece-3bed581e03c6/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=b719183b-fe9d-493c-aece-3bed581e03c6&feed=gvAZ3nqF&t=podcast&e=nx-s1-6001602&p=510333&d=2871&size=45951773",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg",
+      "description": "The Eighth Amendment. What is cruel and unusual punishment? Who gets to define and decide the amendment's boundaries? And how did the Constitution's authors imagine it might change? In this hour, the...",
+      "description_full": "The Eighth Amendment. What is cruel and unusual punishment? Who gets to define and decide the amendment's boundaries? And how did the Constitution's authors imagine it might change? In this hour, the shifting definition of cruel and unusual punishment. This episode was originally published in January 2025. Guests:John Bessler, law professor at the University of Baltimore School of Law, and adjunct professor at the Georgetown University Law Center. Author of The Death Penalty's Denial of Fundamental Human Rights.Carol Steiker, law professor at Harvard Law School and author of Courting Death: the Supreme Court and Capital Punishment.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "fd15ce87cafc94d3",
@@ -904,19 +964,34 @@
       "description_full": "Ryan has spent decades pressing presidents for answers. She talks about access, power, race and how asking questions put her in President Trump's crosshairs. She spoke with Tonya Mosley about her book, Notes on a Blacklash. Also, TV critic David Bianculli reviews the new CBS legal drama set in Silicon Valley, Cupertino. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "4270c171cb2d1603",
-      "title": "Four Seasons of Ceasefire in Gaza",
-      "show_name": "Throughline",
-      "network": "NPR",
+      "id": "983daeccc038cd2b",
+      "title": "Why do politicians talk like that?",
+      "show_name": "Science Friday",
+      "network": "WNYC Studios",
       "category": "Science",
-      "published_at": "2026-10-08T07:00:00Z",
-      "score": 1,
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5993984/four-seasons-of-ceasefire-in-gaza",
-      "audio_url": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510333/npr.simplecastaudio.com/923a8c19-6266-45f0-88de-3997479f3ca3/episodes/3d6cd694-3bce-47af-8bdd-8e26372a0fc6/audio/128/default.mp3?awCollectionId=923a8c19-6266-45f0-88de-3997479f3ca3&awEpisodeId=3d6cd694-3bce-47af-8bdd-8e26372a0fc6&feed=gvAZ3nqF&t=podcast&e=nx-s1-5993984&p=510333&d=2597&size=41565292",
+      "published_at": "2026-10-15T10:00:00Z",
+      "score": 0,
+      "link": "https://www.wnycstudios.org/podcasts/science-friday",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/ac8e2039-dfef-4938-b66a-c2f58f4b7599/episodes/6f0d8eac-74e6-4099-b2d0-840cc8f6509b/audio/128/default.mp3?aid=rss_feed&awCollectionId=ac8e2039-dfef-4938-b66a-c2f58f4b7599&awEpisodeId=6f0d8eac-74e6-4099-b2d0-840cc8f6509b&feed=h18ZIZD_",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/05/15/throughline_tile-art_sq-a59d7da2ea2bf97562aeec6440ddf837e8f7de65.jpg?s=1400&c=66&f=jpg",
-      "description": "NPR’s Anas Baba is one of the last remaining journalists in Gaza working full-time for an American news organization. A year into the ceasefire, more than 1400 people have been killed in Israeli...",
-      "description_full": "NPR’s Anas Baba is one of the last remaining journalists in Gaza working full-time for an American news organization. A year into the ceasefire, more than 1400 people have been killed in Israeli attacks, nearly 5,000 injured. And those numbers rise nearly every day. What has the last year looked and felt like on the ground? In this episode, Baba takes us through four seasons of ceasefire—as both a resident trying to survive and a reporter trying to document reality.Guests:Anas Baba, NPR Gaza reporterSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+      "show_image_url": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/88d16dd9-fbeb-4b94-acd3-e9871b5060cc/3000x3000/sciencefriday-showsquare-2025-3000x3000.jpg?aid=rss_feed",
+      "description": "A linguist weighs in on how \"politician speak\" has changed over the past century, and what it says about what we want from our leaders.",
+      "description_full": "A linguist weighs in on how \"politician speak\" has changed over the past century, and what it says about what we want from our leaders."
+    },
+    {
+      "id": "622afc4fe3af02c4",
+      "title": "The Pokey Stick, with Steven Ray Morris",
+      "show_name": "Jordan, Jesse, Go!",
+      "network": "Maximum Fun",
+      "category": "Entertainment",
+      "published_at": "2026-10-15T10:00:00Z",
+      "score": 0,
+      "link": "https://maximumfun.org/podcasts/jordan-jesse-go/",
+      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/31/claritaspod.com/measure/afp-9384.calisto.simplecastaudio.com/2daff0ef-e90f-47ef-a435-6baf5a589390/episodes/121eb0f0-f72e-492e-b7e4-8f576460ff0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=2daff0ef-e90f-47ef-a435-6baf5a589390&awEpisodeId=121eb0f0-f72e-492e-b7e4-8f576460ff0e&feed=NDAi3mtz",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://image.simplecastcdn.com/images/00c26e63-adb5-4cdc-aad0-5c4d3d7808af/1548f68c-5cfc-4784-b025-582e031038bb/3000x3000/jjgocoverart1600px.jpg?aid=rss_feed",
+      "description": "This week, we're joined by super producer and host of See Jurassic Right, Steven Ray Morris, to talk about Michael Crichton's lesser known works, strange Redditors, the end of Broadway XXX and Smoke...",
+      "description_full": "This week, we're joined by super producer and host of See Jurassic Right, Steven Ray Morris, to talk about Michael Crichton's lesser known works, strange Redditors, the end of Broadway XXX and Smoke Shop, and a whole lot more."
     },
     {
       "id": "b713a1e83ba70c8f",
@@ -1114,21 +1189,6 @@
       "description_full": "Attachment styles have taken off as a way to understand relationships. But does the science behind it line up with popular interpretations?"
     },
     {
-      "id": "314aac3b018a7f55",
-      "title": "The Israeli Film Directors Pushing for a Reckoning in Their Home Country",
-      "show_name": "The Daily",
-      "network": "NY Times",
-      "category": "Politics",
-      "published_at": "2026-10-12T09:50:18Z",
-      "score": 0,
-      "link": "https://www.nytimes.com/the-daily",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/a46250d4-c001-4b93-9f35-033871237cd4/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=a46250d4-c001-4b93-9f35-033871237cd4&feed=Sl5CSM3S",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-      "description": "Our interview with the directors of “NAZA.”",
-      "description_full": "Our interview with the directors of “NAZA.”"
-    },
-    {
       "id": "c9a876ab80615eb9",
       "title": "What’s cooler than being cool?",
       "show_name": "Unexplainable",
@@ -1292,51 +1352,6 @@
       "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
       "description": "This week our top indicators include changes to the funding model for SNAP, private equity’s influence on youth baseball and Meta’s attempt to find flaws in its brand new AI assistant. Fact checking...",
       "description_full": "This week our top indicators include changes to the funding model for SNAP, private equity’s influence on youth baseball and Meta’s attempt to find flaws in its brand new AI assistant. Fact checking by Sierra Juarez.Your Next Listen –Why Trump's spending bill could close your grocery store–Over 2,000 episodes in our archive on the NPR AppConnect with The Indicator from Planet Money–The Indicator newsletter — a weekly roundup of news, ideas and staff picks. –Instagram, TikTok and YouTube –Find the Planet Money book –Find the Planet Money game, Sell Me A Sasquatch, and other merch at the NPR Shop!Support public media by subscribing to NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org. See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "b4d2d28872e09d51",
-      "title": "Audio Edition: Sometimes Being First Means Seeing the End Before Anyone Else",
-      "show_name": "The Quanta Podcast",
-      "network": "Quanta Magazine",
-      "category": "Science",
-      "published_at": "2026-10-08T10:00:00Z",
-      "score": 0,
-      "link": "https://play.prx.org/listen?ge=prx_11709_dc0629f9-c1ee-46ee-8316-9c4f905b045f&uf=https%3A%2F%2Fquantapodcast.quantamagazine.org%2F",
-      "audio_url": "https://tracking.swap.fm/track/sblTq32fyWAjsHzze2LG/dts.podtrac.com/redirect.mp3/dovetail.prxu.org/11709/dc0629f9-c1ee-46ee-8316-9c4f905b045f/Quanta_300_v2.mp3",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://f.prxu.org/11709/images/83901372-7e72-4e74-815d-0815ab4f4469/TQP-Cover-3000x3000.jpg",
-      "description": "Determination and effort propelled Jacob Tsimerman to the top of the math world. But now that he’s won a Fields Medal, he worries that the field is in jeopardy.The article Sometimes Being First Means...",
-      "description_full": "Determination and effort propelled Jacob Tsimerman to the top of the math world. But now that he’s won a Fields Medal, he worries that the field is in jeopardy.The article Sometimes Being First Means Seeing the End Before Anyone Else first appeared on Quanta Magazine."
-    },
-    {
-      "id": "794725eb81842c9c",
-      "title": "The punk rock life of cephalopods",
-      "show_name": "Science Friday",
-      "network": "WNYC Studios",
-      "category": "Science",
-      "published_at": "2026-10-08T10:00:00Z",
-      "score": 0,
-      "link": "https://www.wnycstudios.org/podcasts/science-friday",
-      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/14/pdst.fm/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/ac8e2039-dfef-4938-b66a-c2f58f4b7599/episodes/3826d498-7bad-4ac5-a883-e1a1df426202/audio/128/default.mp3?aid=rss_feed&awCollectionId=ac8e2039-dfef-4938-b66a-c2f58f4b7599&awEpisodeId=3826d498-7bad-4ac5-a883-e1a1df426202&feed=h18ZIZD_",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/b99b6401-4efd-485f-b744-84da8d6c14f6/88d16dd9-fbeb-4b94-acd3-e9871b5060cc/3000x3000/sciencefriday-showsquare-2025-3000x3000.jpg?aid=rss_feed",
-      "description": "This Cephalopod Week, we’re talking death spirals, cannibalism, and giant squid dissection.",
-      "description_full": "This Cephalopod Week, we’re talking death spirals, cannibalism, and giant squid dissection."
-    },
-    {
-      "id": "ce3ebe24fcf352b0",
-      "title": "Look for the Jorts, with Cameron Esposito",
-      "show_name": "Jordan, Jesse, Go!",
-      "network": "Maximum Fun",
-      "category": "Entertainment",
-      "published_at": "2026-10-08T10:00:00Z",
-      "score": 0,
-      "link": "https://maximumfun.org/podcasts/jordan-jesse-go/",
-      "audio_url": "https://pscrb.fm/rss/p/mgln.ai/e/31/claritaspod.com/measure/afp-9384.calisto.simplecastaudio.com/2daff0ef-e90f-47ef-a435-6baf5a589390/episodes/468a9d9e-e208-453c-8d70-ea3dc376b309/audio/128/default.mp3?aid=rss_feed&awCollectionId=2daff0ef-e90f-47ef-a435-6baf5a589390&awEpisodeId=468a9d9e-e208-453c-8d70-ea3dc376b309&feed=NDAi3mtz",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/00c26e63-adb5-4cdc-aad0-5c4d3d7808af/1548f68c-5cfc-4784-b025-582e031038bb/3000x3000/jjgocoverart1600px.jpg?aid=rss_feed",
-      "description": "This week, comedian and host of King of Drag season 2, Cameron Esposito, joins us to guess the weight of sperm whales, rugby crushes, interesting TikTok algorithms, and a whole lot more.",
-      "description_full": "This week, comedian and host of King of Drag season 2, Cameron Esposito, joins us to guess the weight of sperm whales, rugby crushes, interesting TikTok algorithms, and a whole lot more."
     }
   ]
 }
