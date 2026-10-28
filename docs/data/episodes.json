@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T16:13:37.796115Z",
+  "generated_at": "2026-10-28T02:04:53.302038Z",
   "lookback_days": 7,
-  "episode_count": 93,
+  "episode_count": 92,
   "episodes": [
     {
       "id": "1ef3fa8cb93a482e",
@@ -40,7 +40,7 @@
       "network": "NPR",
       "category": "Art",
       "published_at": "2026-10-22T07:00:00Z",
-      "score": 12,
+      "score": 11,
       "link": "https://www.npr.org/2026/10/22/nx-s1-6000219/over-and-over-crimson-and-clover-by-tommy-james-and-the-shondells-npr",
       "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510019/npr.simplecastaudio.com/afbbcc66-ab00-44f2-903d-1a96ab240270/episodes/446e6b43-eeb1-4ccb-b4f0-5c8aef5dbd1d/audio/256/default.mp3?awCollectionId=afbbcc66-ab00-44f2-903d-1a96ab240270&awEpisodeId=446e6b43-eeb1-4ccb-b4f0-5c8aef5dbd1d&feed=VUaq3kJJ&t=podcast&e=nx-s1-6000219&p=510019&d=1739&size=55664727",
       "audio_type": "audio/mpeg",
@@ -92,6 +92,21 @@
       "show_image_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
       "description": "Sarah Longwell has probably conducted more focus groups with Trump voters than anyone else in America — hundreds of them, starting in Trump’s first term. So she has a treasure trove of qualitative...",
       "description_full": "Sarah Longwell has probably conducted more focus groups with Trump voters than anyone else in America — hundreds of them, starting in Trump’s first term. So she has a treasure trove of qualitative evidence of how voters have evolved in the Trump era and why many of the president’s voters are souring on him now.\n\nTrump’s approval rating has plummeted since the start of his second term, especially among the groups that swung toward him in the last election — young, Black and Hispanic voters. But I wanted to have Longwell on the show to hear what these people are really saying. What exactly has disappointed them about Trump’s second term? And what opportunities could that open for Democrats?\n\nLongwell is a founder and the publisher of The Bulwark, the host of “The Focus Group Podcast” and the author of “How to Eat an Elephant: One Voter at a Time.”"
+    },
+    {
+      "id": "895187a86ff3b2a2",
+      "title": "How are voters feeling before Election Day?",
+      "show_name": "The NPR Politics Podcast",
+      "network": "NPR",
+      "category": "Politics",
+      "published_at": "2026-10-27T19:46:19Z",
+      "score": 8,
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019227/how-are-voters-feeling-before-election-day",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/5bcb0fc6-c78f-44a4-8ce6-b31dc87173ea/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=5bcb0fc6-c78f-44a4-8ce6-b31dc87173ea&feed=iDPaKWvZ&t=podcast&e=nx-s1-6019227&p=510310&d=1049&size=16794062",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
+      "description": "Our latest poll captures a glimpse at how both likely and registered voters are feeling ahead of Election Day. We talk about the issues influencing their decisions, and where both Democratic and...",
+      "description_full": "Our latest poll captures a glimpse at how both likely and registered voters are feeling ahead of Election Day. We talk about the issues influencing their decisions, and where both Democratic and Republican candidates can find reasons to be optimistic & worried.This episode: senior political correspondent Tamara Keith, political reporter Elena Moore, and senior political editor & correspondent Domenico Montanaro.This podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "c49b599e5d936612",
@@ -304,21 +319,6 @@
       "description_full": "Could there be a bigger sign of Ramaswamy's depravity and desperation than using a mother from hell to sell your message? His campaign for governor of Ohio against Amy Acton has been a nightmare from the beginning. Meanwhile, Murphy senses kryptonite in the water around Trump as well, particularly with the farm belt in revolt over tariffs and the price of diesel. But in Michigan, El-Sayed has got to cool it on the cocky bro stuff in the final days of his campaign. Plus: From our live show in Atlanta Tuesday evening, Gen. Hertling joined Tim to discuss the continuing blame game between Musk and the administration over the crippling of Ukraine's military communications, the lack of leadership at the Pentagon, and the failure to protect our troops. Mike Murphy and Lt. Gen. Mark Hertling join Tim Miller.show notes:\nHertling's recent piece, \"Siding With Russia Is a Double Betrayal\"\nMurphy’s “Hacks On Tap” pod\nAmy Acton’s campaign site\nThe Bulwark’s campaign to help the Haitian community of Springfield\nThe Bulwark store\n\nClosing Song: MJ Lenderman - “She’s Leaving You”"
     },
     {
-      "id": "a8c816753080ddff",
-      "title": "David Treuer traces America's relationship with violence back to the frontier",
-      "show_name": "Fresh Air",
-      "network": "NPR",
-      "category": "Art",
-      "published_at": "2026-10-20T17:44:58Z",
-      "score": 6,
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6009123/david-treuer-traces-americas-relationship-with-violence-back-to-the-frontier",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/69dfd162-029f-4580-8195-81b9dedbf571/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=69dfd162-029f-4580-8195-81b9dedbf571&feed=jBsBZBHh&t=podcast&e=nx-s1-6009123&p=381444908&d=2678&size=42857622",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
-      "description": "Ojibwe writer David Treuer’s new book, The Savage Mind: An American Legacy, is written as a letter to his three children. It examines how the violence that shaped America's founding still influences...",
-      "description_full": "Ojibwe writer David Treuer’s new book, The Savage Mind: An American Legacy, is written as a letter to his three children. It examines how the violence that shaped America's founding still influences who we are today. Treuer has spent much of his career challenging the idea that Native American history is a story of tragedy and disappearance, and that Native culture is a thing of the past. He spoke with Tonya Mosley about why he felt compelled to write the book now. Plus, rock critic Ken Tucker reviews an extended version of Stevie Wonder’s iconic 50 year-old album Songs in the Key of Life. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
       "id": "e04296cb5e76ecd4",
       "title": "Best Of: Meshell Ndegeocello / Betty Gilpin",
       "show_name": "Fresh Air",
@@ -469,36 +469,6 @@
       "description_full": "Last week we published a Tiny Desk Concert that ended up being unusual for a few reasons.First of all, it was the final production of our sixth annual El Tiny series. This was a very emotional moment for a lot of reasons. People really love Los Tigres del Norte, to the point that playing their albums feels like sitting with family. And if you’ve seen the introduction I gave the band just before they played at the desk you can see that I wasn’t embarrassed to get emotional when I talked about what the band means to me. That emotional intro led to some changes in our process and format that resulted in a huge response from the audience that went viral. The result was a messy moment behind the scenes here at NPR and more than a little confusion for a lot of you.This week’s episode looks back at last week. First we want to share with you, directly from us, an explanation of what happened.But mostly we want to put the spotlight back on the band and their music because for decades they have been bringing out the kind emotions that got this whole thing started.Give it a listen and enjoy the music. Again.   - FelixThis podcast episode was produced by Noah Caldwell and edited by Jacob Ganz and Otis Hart. Suraya Mohamed is the executive producer of NPR Music.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "20885fc422f8f9a3",
-      "title": "Why Dems see opportunity in Alaska",
-      "show_name": "The NPR Politics Podcast",
-      "network": "NPR",
-      "category": "Politics",
-      "published_at": "2026-10-20T20:33:20Z",
-      "score": 4,
-      "link": "https://www.npr.org/2026/10/20/nx-s1-6009097/why-dems-see-opportunity-in-alaska",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510310/npr.simplecastaudio.com/81c2d960-75d6-4dba-9f07-0bfade0db7ce/episodes/615f692c-df7b-49f5-86c7-0017cd177813/audio/128/default.mp3?awCollectionId=81c2d960-75d6-4dba-9f07-0bfade0db7ce&awEpisodeId=615f692c-df7b-49f5-86c7-0017cd177813&feed=iDPaKWvZ&t=podcast&e=nx-s1-6009097&p=510310&d=1008&size=16145389",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2024/01/11/podcast-politics_2023_update1_sq-eaabdbd6adb312e163cb96909efd902cc2e9e004.jpg?s=1400&c=66&f=jpg",
-      "description": "Democrats think they have a shot at winning a U.S. Senate seat and the governor's mansion in Alaska this election. We look at the issues at stake, and why Republicans are playing defense in a state...",
-      "description_full": "Democrats think they have a shot at winning a U.S. Senate seat and the governor's mansion in Alaska this election. We look at the issues at stake, and why Republicans are playing defense in a state Donald Trump won by 13 points in 2024.This episode: voting correspondent Miles Parks, senior national political correspondent Mara Liasson, and Alaska Public Media Washington correspondent Liz Ruskin.This podcast was produced and edited by Casey Morell and Bria Suggs.Our executive producer is Muthoni Muturi.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
-    },
-    {
-      "id": "711ce74862fc640d",
-      "title": "Michael McFaul: Trump Is Just 'Fine' with Mass Murder",
-      "show_name": "The Bulwark Daily",
-      "network": "The Bulwark",
-      "category": "Politics",
-      "published_at": "2026-10-20T18:52:21Z",
-      "score": 4,
-      "link": "https://audioboom.com/posts/8967083",
-      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967083.mp3?modified=1792522650&sid=5114286&source=rss",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://audioboom.com/i/43772354.jpg",
-      "description": "Though they deny any involvement, the Trump administration and Elon Musk are apparently helping Putin escalate his campaign of terror against Ukraine. Civilian casualties across Ukraine are...",
-      "description_full": "Though they deny any involvement, the Trump administration and Elon Musk are apparently helping Putin escalate his campaign of terror against Ukraine. Civilian casualties across Ukraine are rising—including women and children—but Trump said Monday that Russia \"has been fine on Ukraine.\" At the same time, Team Trump looks to be lining up business deals with Russian energy companies. And Marco's whitewashing of it all is sickening. Plus: Zelensky is tired of Trump's games, China is playing a curious role on both sides of the war, and JD has another whopper to add to his stack of lies. Former Amb. Michael McFaul joins Tim Miller.show notes:\nMcFaul’s book, “Autocrats vs Democrats: China, Russia, America, and the New Global Disorder”\nTim’s ‘Take’ with Caolan Robertson in Ukraine\nThe NYT on potential Kushner/Witkoff deal with Russian company Lukoil\nBulwark LIVE show in Atlanta TONIGHT\nThe Bulwark’s campaign to help the Haitian community of Springfield\nThe Bulwark store\nClosing Song: Orville Peck - “It’s the End of the World”"
-    },
-    {
       "id": "5023097c60d97d64",
       "title": "Malaria Parasite Caught in the Act of Breaking and Entering",
       "show_name": "The Quanta Podcast",
@@ -617,6 +587,21 @@
       "show_image_url": "https://media.npr.org/assets/img/2023/02/27/ibam_tile-2023_sq-7803f41ed0370749ef50b8afb21b3d35f64d3870.jpg?s=1400&c=66&f=jpg",
       "description": "Who do you trust to help you make decisions about your sexual health?In the absence of widespread public health campaigns and high-profile narratives in TV and film about HIV prevention, Gen Z is...",
       "description_full": "Who do you trust to help you make decisions about your sexual health?In the absence of widespread public health campaigns and high-profile narratives in TV and film about HIV prevention, Gen Z is turning to their chatbots of choice to help them make decisions regarding their sexual health. While some call it innovative, is there something that gets missed when the hard conversations about safety and pleasure become a digital feedback loop? Brittany is joined by Jerrell K.L. Hardnett, Associate Director of Education and Advocacy at GLAAD, and Dr. Samantha Hill, Associate Professor of Pediatrics at Emory University to find out.Want more episodes on AI's influence on culture?You might be suffering from AI brain fryGenerative AI's race problemSupport public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "93b32b1e09191386",
+      "title": "Sarah Matthews and Pablo Torre: The Pedophile Protection Party",
+      "show_name": "The Bulwark Daily",
+      "network": "The Bulwark",
+      "category": "Politics",
+      "published_at": "2026-10-27T19:23:45Z",
+      "score": 2,
+      "link": "https://audioboom.com/posts/8969982",
+      "audio_url": "https://clrtpod.com/m/pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8969982.mp3?modified=1793129145&sid=5114286&source=rss",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://audioboom.com/i/43772354.jpg",
+      "description": "Democrats offered a glimpse of the accountability that's likely coming over the Epstein cover-up: new allegations of rape against Trump and evidence that strongly suggests Epstein introduced Melania...",
+      "description_full": "Democrats offered a glimpse of the accountability that's likely coming over the Epstein cover-up: new allegations of rape against Trump and evidence that strongly suggests Epstein introduced Melania to Trump. And of course, POTUS is standing by Vivek's ad with an endorsement from a mother who inflicted a pedophile on her own daughter. Plus: The Bulwark and \"Pablo Torre Finds Out\" teamed up for a new poll on the intersection of sports and politics, Pablo shares the skinny on how Vivek is exactly the kind of person who would use that ad against Amy Acton, Republicans are using straight racism as their closing message against El-Sayed, Hegseth's High T schtick is landing with no one, Trump can't quit his obsession with Comey, and Clay Travis stole his Cheesecake Factory valor. Sarah Matthews and Pablo Torre join Tim Miller.show notes:\nTim and Sam discuss the new poll on “Pablo Torre Finds Out”\nBrendan on the new poll from The Bulwark and “Pablo Torre Finds Out” \nThe January 6 Memory Project\nThe petition by Vivek’s high school classmates calling on him to pull the ad\nPablo’s Kelly Clarkson show\nThe Bulwark’s campaign to help the Haitian community of Springfield\nThe Bulwark store\nClosing Song: The War on Drugs - “Suffering”"
     },
     {
       "id": "6263001d24c925f3",
@@ -769,19 +754,19 @@
       "description_full": "Polling is facing an existential crisis. People aren't picking up the phone. Nobody wants to talk to pollsters. Trust is on the line. We pluck a solution from the economics canon and convince a polling firm to let us test it. Today on the show, we head to Marist College — home of the Marist Poll — to learn how to be pollsters ourselves. We learn the great moments in polling history, the latest science of polling, and find out all the tricks that pollsters use to get people to finish their surveys. Then we get on the phone and give it a try ourselves. And offer some of our own solutions. This episode was originally published before the 2022 midterm elections. We have an update on our idea to save polling, which Marist is still testing, and we find out what it might be able to tell us about the 2026 midterms. Music: \"Partyline, \"The Danzig Connection, and \"Saku\"Read: Our book: Planet Money: A Guide to the Economic Forces That Shape Your Life Our weekly longform Planet Money newsletterOur weekly Indicator round-up newsletterFollow: InstagramTikTokYouTubeFacebookThis update was produced by Emma Peaslee with help from Sam Yellowhorse Kesler. It was mastered by Gilly Moon with help from Cena Loffredo. The original episode was edited by Jess Jiang. Alex Goldmark is Planet Money’s executive producer. Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include bonus episodes and sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "84e578d12f379fb9",
-      "title": "Are Private Equity Firms Plundering the U.S. Economy? (Update)",
-      "show_name": "Freakonomics Radio",
-      "network": "Freakonomics Radio Network",
-      "category": "Finance/Economics",
-      "published_at": "2026-10-21T00:00:00Z",
-      "score": 2,
-      "link": "https://freakonomics.com",
-      "audio_url": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/ba033623-4d2f-483b-8b11-2620ffa44371/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=ba033623-4d2f-483b-8b11-2620ffa44371&feed=Y8lFbOT4",
+      "id": "0b1170214d2c76fe",
+      "title": "Los Javis filmmakers fight fascism and homophobia with ‘La Bola Negra’",
+      "show_name": "Fresh Air",
+      "network": "NPR",
+      "category": "Art",
+      "published_at": "2026-10-27T19:07:58Z",
+      "score": 1,
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019412/los-javis-filmmakers-fight-fascism-and-homophobia-with-la-bola-negra",
+      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/95213a18-7113-455a-96d2-2bb0f9e0a04b/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=95213a18-7113-455a-96d2-2bb0f9e0a04b&feed=jBsBZBHh&t=podcast&e=nx-s1-6019412&p=381444908&d=2640&size=42254088",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/2be48404-a43c-4fa8-a32c-760a3216272e/fab1584e-8ea9-4efa-9650-5e595861b2cd/3000x3000/image.jpg?aid=rss_feed",
-      "description": "They say they make companies more efficient through savvy management. Critics say they bend the rules to enrich themselves at the expense of consumers and employees. Can they both be right? (Probably...",
-      "description_full": "They say they make companies more efficient through savvy management. Critics say they bend the rules to enrich themselves at the expense of consumers and employees. Can they both be right? (Probably not.)"
+      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
+      "description": "Javier Calvo and Javier Ambrossi — known as \"Los Javis\" — have turned four pages of an unfinished play by Federico García Lorca into a sweeping epic about three generations of gay men in Spain. They...",
+      "description_full": "Javier Calvo and Javier Ambrossi — known as \"Los Javis\" — have turned four pages of an unfinished play by Federico García Lorca into a sweeping epic about three generations of gay men in Spain. They spoke with Tonya Mosley about making La Bola Negra, their creative partnership, and art as a weapon against fascism. Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
       "id": "1c4694732cb261d0",
