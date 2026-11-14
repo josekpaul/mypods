@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T02:57:47.838659Z",
+  "generated_at": "2026-11-14T16:51:47.346664Z",
   "lookback_days": 7,
-  "episode_count": 91,
+  "episode_count": 90,
   "episodes": [
     {
       "id": "c38d0ab419e7063a",
@@ -394,19 +394,19 @@
       "description_full": "Nvidia’s C.E.O., Jensen Huang, admitted to having an affair with a suspected Chinese corporate spy. Everything that means for him and the A.I. industry, and what happens next."
     },
     {
-      "id": "ad77f4c7afc87502",
-      "title": "How the Democrats Did It",
-      "show_name": "The Ezra Klein Show",
-      "network": "NY Times",
-      "category": "Politics",
-      "published_at": "2026-11-07T12:00:00Z",
-      "score": 4,
-      "link": "https://www.nytimes.com/2026/11/07/opinion/ezra-klein-podcast-michelle-goldberg.html",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3026b665-46df-4d18-98e9-d1ce16bbb1df/episodes/881d9663-8713-4a17-8415-99451e0ef854/audio/128/default.mp3?aid=rss_feed&awCollectionId=3026b665-46df-4d18-98e9-d1ce16bbb1df&awEpisodeId=881d9663-8713-4a17-8415-99451e0ef854&feed=82FI35Px",
+      "id": "22ad73037f38d781",
+      "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+      "show_name": "Odd Lots",
+      "network": "Bloomberg",
+      "category": "Finance/Economics",
+      "published_at": "2026-11-14T09:00:00Z",
+      "score": 3,
+      "link": "https://omny.fm/shows/odd-lots/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+      "audio_url": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d24ac51-fef1-4f4e-8cda-b501016c2b98/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
       "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/47913775-afcf-4643-935f-31f1dcc86cfb/6a0e5e15-04a3-47c8-9c50-2f2fe8e84437/3000x3000/teks-album-20art-3000px.jpg?aid=rss_feed",
-      "description": "President Trump is primarily responsible for the Republican shellacking on Tuesday. But to get over the finish line in so many places — across the Midwest and deep into the South – Democrats had to...",
-      "description_full": "President Trump is primarily responsible for the Republican shellacking on Tuesday. But to get over the finish line in so many places — across the Midwest and deep into the South – Democrats had to run the right candidates, and those candidates ran very different campaigns.\n\nSo how exactly did those Democrats do it? Michelle Goldberg, my colleague at New York Times Opinion, did amazing work this past year covering the biggest races — traveling to Texas, Michigan, Maine and other states, meeting with the candidates, and getting a sense of their campaigns on the ground. She joins me for a deep dive into the most exciting — and shocking — wins, and what they reveal about the new Democratic Party that will emerge out of this election."
+      "show_image_url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+      "description": "Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the...",
+      "description_full": "Nvidia's post-Jensen Huang era has just begun and there are so many open questions about the company's future. Who will the board choose to be Nvidia's next CEO? Will the government crack down on the chipmaker's business practices, particularly in Asia? And will Nvidia's uncertain position begin to spillover into the wider AI ecosystem, from the labs to data center providers? Stacy Rasgon, managing director and senior analyst at Bernstein, isn't optimistic about the short term future of Nvidia and he talks to us today about the cloudy outlook at the company in the wake of Jensen's resignation. We also discuss why he chose to downgrade Nvidia's stock, the surreal experience of covering Jensen's fall as an analyst, and what he's paying attention to ahead of Nvidia's earnings. Read more:https://www.bloomberg.com/news/articles/2026-11-13/retail-investors-stick-with-nvidia-despite-jensen-huang-s-departureSilicon Valley’s Group Chats Are Having a Moment of Jensanity Only http://Bloomberg.com subscribers can get the Odd Lots newsletter in their inbox each week, plus unlimited access to the site and app. Subscribe at  bloomberg.com/subscriptions/oddlots Subscribe to the Odd Lots NewsletterJoin the conversation: discord.gg/oddlotsSee omnystudio.com/listener for privacy information."
     },
     {
       "id": "2e63662923df229b",
@@ -724,19 +724,19 @@
       "description_full": "Comedy writer and producer Mike Schur (\"The Good Place,\" \"Parks and Recreation\") breaks down how streaming killed the classic sitcom — and what comedy is doing to survive.Fact checking by Leyla Doss.Your Next Listen –What the movies teach us about recessions, memestocks and gold–Over 2,000 episodes in our archive on the NPR AppConnect with The Indicator from Planet Money–The Indicator newsletter — a weekly roundup of news, ideas and staff picks. –Instagram, TikTok and YouTube –Find the Planet Money book –Find the Planet Money game, Sell Me A Sasquatch, and other merch at the NPR Shop!Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     },
     {
-      "id": "b5b3c4a7d7c44b7e",
-      "title": "Political Ad Splurge",
+      "id": "6bed0ff9509aec4a",
+      "title": "The Nvidia Honeypot Boils Over",
       "show_name": "Slate Money",
       "network": "Slate",
       "category": "Finance/Economics",
-      "published_at": "2026-11-07T08:00:00Z",
-      "score": 2,
-      "link": "https://shows.acast.com/slate-money/episodes/6aee520d218f4807f23d4568",
-      "audio_url": "https://sphinx.acast.com/p/open/s/695ead68a32e86d775858194/e/6aee520d218f4807f23d4568/media.mp3",
+      "published_at": "2026-11-14T08:00:00Z",
+      "score": 1,
+      "link": "https://shows.acast.com/slate-money/episodes/6af774b99dce432809111ae7",
+      "audio_url": "https://sphinx.acast.com/p/open/s/695ead68a32e86d775858194/e/6af774b99dce432809111ae7/media.mp3",
       "audio_type": "audio/mpeg",
       "show_image_url": "https://assets.pippa.io/shows/695ead68a32e86d775858194/show-cover.jpg",
-      "description": "This Week: We saw the culmination of the $11.87 billion that was spent on political ads for the midterms. Felix Salmon, Elizabeth Spiers, and Emily Peck bring on Axios’ Sarah Fischer to explain where...",
-      "description_full": "This Week: We saw the culmination of the $11.87 billion that was spent on political ads for the midterms. Felix Salmon, Elizabeth Spiers, and Emily Peck bring on Axios’ Sarah Fischer to explain where that money went and what role it played (or didn't play) in Tuesday's election. Then they turn their eyes to how the stock market is responding to the election and A.I. data center backlash. Finally, in a bit of counter-programming, they talk about how to make a bottle of scotch look as extravagant as its $36,000 price tag. In the Slate Plus episode: What's going on with right-wing media after a big blue wave?Want to hear that discussion and hear more Slate Money? Join Slate Plus to unlock weekly bonus episodes. Plus, you’ll access ad-free listening across all your favorite Slate podcasts. You can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify. Or, visit slate.com/moneyplus to get access wherever you listen. Podcast production by Jessamine Molli and Cheyna Roth. Hosted on Acast. See acast.com/privacy for more information."
+      "description": "This week: We got confirmation that rumors that Nvidia’s CEO and chairman was having an affair with a Chinese spy. Felix Salmon, Elizabeth Spiers, and Emily Peck dig into all the drama surrounding...",
+      "description_full": "This week: We got confirmation that rumors that Nvidia’s CEO and chairman was having an affair with a Chinese spy. Felix Salmon, Elizabeth Spiers, and Emily Peck dig into all the drama surrounding the Jensen Huang honeypot plot. Then, they discuss the resulting blame game at the White House and what it could all mean for the A.I. market (and try to keep the scandals straight). Finally, Washingtonians voted to keep the tax on income over a million dollars. Is this a wealth tax that could stick?In the Slate Plus episode: It’s all Grand Theft Auto bay-beeee.Want to hear that discussion and hear more Slate Money? Join Slate Plus to unlock weekly bonus episodes. Plus, you’ll access ad-free listening across all your favorite Slate podcasts. You can subscribe directly from the Slate Money show page on Apple Podcasts and Spotify. Or, visit slate.com/moneyplus to get access wherever you listen. Podcast production by Jessamine Molli and Cheyna Roth. Hosted on Acast. See acast.com/privacy for more information."
     },
     {
       "id": "a05e4988d34783ec",
@@ -947,6 +947,21 @@
       "show_image_url": "https://media.npr.org/assets/img/2024/03/25/the-indicator_2024_sq-121249a297878ab2327b321c997ab870300ec659.jpg?s=1400&c=66&f=jpg",
       "description": "After last week's midterm elections, there are quite a few economic indicators to watch – from data centers to California billionaires. Who won, who lost, and why it matters.Fact checking by Leyla...",
       "description_full": "After last week's midterm elections, there are quite a few economic indicators to watch – from data centers to California billionaires. Who won, who lost, and why it matters.Fact checking by Leyla Doss.Your Next Listen – How taxing the wealthy could work –Over 2,000 episodes in our archive on the NPR AppConnect with The Indicator from Planet Money–The Indicator newsletter — a weekly roundup of news, ideas and staff picks.–Instagram, TikTok and YouTube–Find the Planet Money book–Find the Planet Money game, Sell Me A Sasquatch, and other merch at the NPR Shop!Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show’s perks include sponsor-free listening. Learn more at plus.npr.org.See pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
+    },
+    {
+      "id": "b7a613b2a5e23c8c",
+      "title": "Olivia Wilde Hit Bottom. Here's How She Bounced Back.",
+      "show_name": "The Daily",
+      "network": "NY Times",
+      "category": "Politics",
+      "published_at": "2026-11-14T11:00:00Z",
+      "score": 0,
+      "link": "https://www.nytimes.com/the-daily",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/61a2969e-d107-405b-9ce5-ab96d16ea7cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=61a2969e-d107-405b-9ce5-ab96d16ea7cc&feed=Sl5CSM3S",
+      "audio_type": "audio/mpeg",
+      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
+      "description": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie.",
+      "description_full": "The actor-director learned a lot about shame, regret and failure — and then made a hit movie."
     },
     {
       "id": "837b397f1022c5b1",
@@ -1337,36 +1352,6 @@
       "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
       "description": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure.",
       "description_full": "The governor-elect of Georgia is elated about her party’s victories in the South, but knows realignment is far from secure."
-    },
-    {
-      "id": "706f0427c3633642",
-      "title": "Introducing ‘METRO’ From Serial Productions",
-      "show_name": "The Daily",
-      "network": "NY Times",
-      "category": "Politics",
-      "published_at": "2026-11-07T11:00:00Z",
-      "score": 0,
-      "link": "https://www.nytimes.com/the-daily",
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/03d8b493-87fc-4bd1-931f-8a8e9b945d8a/episodes/5a033179-92e3-43c1-bd01-45ea0c152d0f/audio/128/default.mp3?aid=rss_feed&awCollectionId=03d8b493-87fc-4bd1-931f-8a8e9b945d8a&awEpisodeId=5a033179-92e3-43c1-bd01-45ea0c152d0f&feed=Sl5CSM3S",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://image.simplecastcdn.com/images/7f2f4c05-9c2f-4deb-82b7-b538062bc22d/73549bf1-94b3-40ff-8aeb-b4054848ec1b/3000x3000/the-daily-album-art-original.jpg?aid=rss_feed",
-      "description": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.\n\nEvery other week, Sarah Koenig and...",
-      "description_full": "Today, we’re sharing an episode from a brand-new show called “METRO,” made by the Serial podcast team and the reporters here at The Times who cover New York City.\n\nEvery other week, Sarah Koenig and her team will tell stories about the city and its most fascinating raw material: New Yorkers. They’ll bring you investigations, personal stories, essays and interviews that take the bigness of New York and make it human scale and relevant, no matter where you live. \n\nYou can find all episodes of Serial’s “METRO” wherever you get your podcasts and in The New York Times app."
-    },
-    {
-      "id": "acaa23a01a5c00e5",
-      "title": "Best Of: John Turturro / Jordan Firstman on ‘Club Kid’",
-      "show_name": "Fresh Air",
-      "network": "NPR",
-      "category": "Art",
-      "published_at": "2026-11-07T05:05:01Z",
-      "score": 0,
-      "link": "https://www.npr.org/2026/11/07/nx-s1-6030814/best-of-john-turturro-jordan-firstman-on-club-kid",
-      "audio_url": "https://prfx.byspotify.com/e/play.podtrac.com/npr-381444908/npr.simplecastaudio.com/49850946-31c1-4953-8129-0d718420c400/episodes/1c16513a-68ba-4fd1-a4ca-1344b1e874c7/audio/128/default.mp3?awCollectionId=49850946-31c1-4953-8129-0d718420c400&awEpisodeId=1c16513a-68ba-4fd1-a4ca-1344b1e874c7&feed=jBsBZBHh&t=podcast&e=nx-s1-6030814&p=381444908&d=2941&size=47063127",
-      "audio_type": "audio/mpeg",
-      "show_image_url": "https://media.npr.org/assets/img/2022/09/23/fresh-air_tile_npr-network-01_sq-9b42f217746df08ce5a26c500024dd979ff94178.jpg?s=1400&c=66&f=jpg",
-      "description": "John Turturro stars in the new film The Only Living Pickpocket in New York. To prepare, he studied with a pickpocket. Turturro is known for his roles in films by Spike Lee and the Coen Brothers, in...",
-      "description_full": "John Turturro stars in the new film The Only Living Pickpocket in New York. To prepare, he studied with a pickpocket. Turturro is known for his roles in films by Spike Lee and the Coen Brothers, in acclaimed TV series The Night Of, and Severance. He spoke with Terry Gross about how growing up around volatility helped him understand some of his characters. Also, Jordan Firstman talks about writing, directing and starring in the new comedy/drama film Club Kid. He plays a hard-partying gay club promoter who discovers he has a 10 year-old kid. He spoke with Ann Marie Baldonado about capturing the highs and lows of club life.  Subscribe to our free weekly newsletter Follow us on Instagram Subscribe to our YouTube channel Check out the Fresh Air ArchivesSee pcm.adswizz.com for information about our collection and use of personal data for sponsorship and to manage your podcast sponsorship preferences.NPR Privacy Policy"
     }
   ]
 }
